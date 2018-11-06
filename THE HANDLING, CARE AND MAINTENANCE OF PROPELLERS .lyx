@@ -242,10 +242,6 @@ Propeller: Literally, an air screw.
 \end_layout
 
 \begin_layout Standard
-3 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Newpage newpage
 \end_inset
 
@@ -362,10 +358,6 @@ _________________________________________________________________
 
 \begin_layout LyX-Code
 _________________________________________________________________ 
-\end_layout
-
-\begin_layout Standard
-4 
 \end_layout
 
 \begin_layout Standard
@@ -862,8 +854,8 @@ Please do not regard any problem concerning your propeller as too trivial
  I have witnessed numerous installation attempts that were totally mind-boggling
  and having then confronted the guilty party as to the reason why his propeller
  and the resulting performance appeared worse than any imaginable miscarriage,
- I would receive the lame excuse of " I ONLY THOUGHT ..." or " I WASN'T SURE
- SO I ..." or " But so and So.'s prop was done like this and nothing has happened!"
+ I would receive the lame excuse of "I only thought ..." or "I wasn't sure
+ so I ..." or "But so and So.'s prop was done like this and nothing has happened!"
  (as of yet!) 
 \end_layout
 
@@ -877,10 +869,6 @@ Oh, sir if you would only listen to yourself you could at least save yourself
  from some embarrassment, not to mention your life!
 \emph default
  
-\end_layout
-
-\begin_layout Standard
-9 
 \end_layout
 
 \begin_layout Standard
@@ -1141,10 +1129,6 @@ Please bear in mind whatever prop you fly:- it was designed to propel an
 \end_layout
 
 \begin_layout Standard
-10 
-\end_layout
-
-\begin_layout Standard
 The material used is an isocyanate terminated prepolymer based on polytetramethy
 lene glycol and tolylene diisocyanate which when cured with methylene(bis
  2 chloraniline) yields high performance elastomers of shore A 90 hardness
@@ -1380,10 +1364,6 @@ Should you decide to continue, read the following instructions carefully
  and familiarize yourself with the contents and tools that will be needed
  to do a successful installation.
  
-\end_layout
-
-\begin_layout Standard
-11 
 \end_layout
 
 \begin_layout Section
@@ -1685,10 +1665,6 @@ Some slight advantages may be claimed from semi-scimitar props.
  datum.
  This is however very small on most semi scimitar propellers.
  
-\end_layout
-
-\begin_layout Standard
-12 
 \end_layout
 
 \begin_layout Subsubsection*
@@ -2081,7 +2057,7 @@ FIGURE 1
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 1 
 \end_layout
 
@@ -2118,7 +2094,7 @@ FIGURE 1
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 2 
 \end_layout
 
@@ -2160,7 +2136,7 @@ WARNING: Don't forget to tighten the chuck and to remove the key afterwards.
  serious injury to yourself or the person helping you! 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 3 
 \end_layout
 
@@ -2170,7 +2146,7 @@ Check the travel of the drill bit (up and down).It should be able to drill
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 4 
 \end_layout
 
@@ -2275,7 +2251,7 @@ If your prop is located behind the engine then it is a pusher type with
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 5 
 \end_layout
 
@@ -2504,7 +2480,7 @@ Don't despair ...
  You're halfway there! 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 7 
 \end_layout
 
@@ -2520,7 +2496,7 @@ Remove the bolts, but keep them handy.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 8 
 \end_layout
 
@@ -2638,7 +2614,7 @@ A secondary result of too tight a fit results in the bolts generating enough
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 9 
 \end_layout
 
@@ -2650,7 +2626,7 @@ Remove the drillbit from the drillpress and replace it with a bit that is
  serious injury to yourself or the person helping you! 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 10 
 \end_layout
 
@@ -2683,8 +2659,12 @@ NOTE: You're bolts should be able to slide in and out of the holes very
  
 \end_layout
 
+\begin_layout Subsubsection*
+Step 11 
+\end_layout
+
 \begin_layout Standard
-Step 11 Remedy for unsightly holes! 
+Remedy for unsightly holes! 
 \end_layout
 
 \begin_layout Standard
@@ -2703,7 +2683,7 @@ TA-DAAAA! ...
 \end_layout
 
 \begin_layout Standard
-------- oOo ------ 15 
+------- oOo ------ 
 \end_layout
 
 \begin_layout Section
@@ -2838,7 +2818,7 @@ If you've had a prop strike and your previous prop was broken beyond repair,
 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 1 
 \end_layout
 
@@ -2864,7 +2844,7 @@ Should it be a tight fit use a round file to remove residual fiber or paint
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 2 
 \end_layout
 
@@ -2876,7 +2856,7 @@ Fit engine plate and slide bolts into the bolt holes.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 3 
 \end_layout
 
@@ -3066,7 +3046,7 @@ Don't attempt to tighten the bolts without a torque wrench.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 1 
 \end_layout
 
@@ -3080,7 +3060,7 @@ Remove the engine spark-plugs and leads.
  switch was in the "off" position! 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 2 
 \end_layout
 
@@ -3111,7 +3091,7 @@ For ease of reference I shall name the one blade "A" and the other "B".
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 3 
 \end_layout
 
@@ -3205,7 +3185,7 @@ Select the dot on blade "A".
  to the next.) 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 5 
 \end_layout
 
@@ -3227,7 +3207,7 @@ This is the tricky part.
  occupy the previous blades position 100% 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 6 
 \end_layout
 
@@ -3248,17 +3228,13 @@ NOTE!: This means that one of the blades is tracking 6mm ahead of the other.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 Step 7 
 \end_layout
 
-\begin_layout Standard
-NOTE! 
-\end_layout
-
-\begin_layout Standard
-The following steps is of utter importance and should be done taking time
- and care.
+\begin_layout Quote
+NOTE: The following steps is of utter importance and should be done taking
+ time and care.
  On average it takes me about 30 minutes to accurately track a propeller,
  so you should spend about 40 min.
  
@@ -3271,12 +3247,8 @@ Rotate the prop so that blade "A" occupies the original position.
  
 \end_layout
 
-\begin_layout Standard
-NOTE! 
-\end_layout
-
-\begin_layout Standard
-What you are actually doing is pulling blade "A" closer to the airframe,
+\begin_layout Quote
+NOTE: What you are actually doing is pulling blade "A" closer to the airframe,
  and seeing that the propeller is a unit, blade "B" shall move away from
  the airframe the same distance that "A" is moving towards the airframe.
  
@@ -3311,10 +3283,6 @@ A = 505; B = 501; difference in track = 4mm NO GO, TRY AGAIN!
 Keep on tightening the bolts in the correct sequence until they torque out
  at the correct torque setting for your bolts and propeller.
  
-\end_layout
-
-\begin_layout Standard
-17 
 \end_layout
 
 \begin_layout Standard
@@ -3602,12 +3570,8 @@ N-m
 
 \end_layout
 
-\begin_layout Standard
-NOTE: 
-\end_layout
-
-\begin_layout Standard
-The tracking of the blades should be constantly monitored while torquing
+\begin_layout Quote
+NOTE: The tracking of the blades should be constantly monitored while torquing
  and must be checked again after the final figures have been reached.
  
 \end_layout
@@ -3730,7 +3694,7 @@ ASSESSING THE CONDITION OF THE PROPELLER
 \end_layout
 
 \begin_layout Standard
-PLEASE, REFER TO PAGE 7 FOR A QUICK REFERENCE CHECK.
+REFER TO PAGE 7 FOR A QUICK REFERENCE CHECK.
  
 \end_layout
 
@@ -3778,12 +3742,8 @@ As the flying hours add up a prop usually goes through 4 stages of wear
  
 \end_layout
 
-\begin_layout Standard
-18 
-\end_layout
-
 \begin_layout Subsection*
-STAGE 1 GOOD CONDITION 
+STAGE 1 - GOOD CONDITION 
 \end_layout
 
 \begin_layout Enumerate
@@ -3820,7 +3780,7 @@ Accurate tracking.
 \end_layout
 
 \begin_layout Subsection*
-STAGE 2 AVERAGE CONDITION 
+STAGE 2 - AVERAGE CONDITION 
 \end_layout
 
 \begin_layout Enumerate
@@ -3903,7 +3863,7 @@ RANDBURG, 2125
 \end_layout
 
 \begin_layout Subsection*
-STAGE 3 POOR CONDITION 
+STAGE 3 - POOR CONDITION 
 \end_layout
 
 \begin_layout Enumerate
@@ -3950,7 +3910,7 @@ n.
 \end_layout
 
 \begin_layout Subsection*
-STAGE 4 BEYOND REPAIR 
+STAGE 4 - BEYOND REPAIR 
 \end_layout
 
 \begin_layout Enumerate
@@ -4049,13 +4009,9 @@ Rally Car Wax
 \end_layout
 
 \begin_layout Quote
-NOTE! 
-\end_layout
-
-\begin_layout Quote
-Don't use an oil based wax as the final finish on most wooden props is a
- lacquer based paint, the same as the motor-car manufacturers use on their
- vehicles.
+NOTE: Don't use an oil based wax as the final finish on most wooden props
+ is a lacquer based paint, the same as the motor-car manufacturers use on
+ their vehicles.
  oil or bee's wax based polish will build up a layer of dust an may impair
  the balance of the propeller.
  
@@ -4067,13 +4023,9 @@ b) Soak the cloth in meths and wipe the prop to remove oil and insect residue.
 \end_layout
 
 \begin_layout Quote
-NOTE! 
-\end_layout
-
-\begin_layout Quote
-Please! no thinners, petrol or similar products should be applied as they
- will damage the exterior paintwork with the result that your prop will
- need a costly refurbishing and balancing job.
+NOTE: Please! no thinners, petrol or similar products should be applied
+ as they will damage the exterior paintwork with the result that your prop
+ will need a costly refurbishing and balancing job.
  
 \end_layout
 
@@ -4249,91 +4201,93 @@ All manufacturers of propellers know of and acknowledge the effects of an
  following: 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Intact engine mounts?.
- 
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
 Twist and pull the engine as it would be done by the prop.
  Look for cracked or broken rubber mounts, metal supports, missing bolts,
  nuts etc.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Engine tuned? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 When is the last time the points where set? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 When is the last time the timing was set? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 When is the last time the carbs were synchronized? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 When is the last time the plugs were changed? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Is the plug gab set correctly? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Are the throttle cables opening simultaneously? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Are the chokes closed? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Are the choke cables synchronized? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 When is the last time the air filters were cleaned? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 When is the last time the gearbox was serviced and checked? 
 \end_layout
 
-\begin_layout Quote
+\begin_deeper
+\begin_layout Itemize
 This is an extremely important aspect as there are several parts in a gearbox
  that need to be serviced at regular intervals.
  
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\begin_layout Itemize
 When is the last time the bearings of your belt drive were checked by dial
  gauge for movement and play? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Are you running the same diameter and type of belts?.
  Belts differ in as many aspects as motor-car tyres! 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 When is the last time your driveshaft was checked by dial gauge for runout
  and trueness? 
 \end_layout
 
-\begin_layout Quote
+\begin_deeper
+\begin_layout Itemize
 Especially so if you have had a prop strike and the prop had to be replaced!
  In case of gearbox driven props your gearbox final drive should be checked
  for runout by a competent engineering firm.
  
 \end_layout
 
-\begin_layout Quote
+\begin_layout Itemize
 Remember a runout of more than .005mm on the gearbox is of great concern.
  I personally know someone that caused two prop manufacturers a lot of money
  and wasted time/energy in trying to discover why his prop was vibrating
@@ -4345,51 +4299,61 @@ Remember a runout of more than .005mm on the gearbox is of great concern.
  
 \end_layout
 
-\begin_layout Quote
+\begin_layout Itemize
 Needless to say that when this was discovered no apology was forthcoming
  thus putting manufacturers of propellers on the defensive side when it
  comes to accusations of propeller vibration! 
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\begin_layout Itemize
 Is the exhaust able to move freely? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Are all the exhaust springs present? 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Are all of your propeller bolts of the same diameter, length and strength?
  
 \end_layout
 
-\begin_layout Quote
+\begin_deeper
+\begin_layout Itemize
 A certain pilot used varying lengths of bolts, little realizing that it
  would definitely set up vibration in the system! 
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\begin_layout Itemize
 Are all the propbolt washers of the same diameter, size, and weight? 
 \end_layout
 
-\begin_layout Quote
+\begin_deeper
+\begin_layout Itemize
 The same pilot used various washers to make up for the varying bolt lengths!
  
 \end_layout
 
-\begin_layout Standard
+\end_deeper
+\begin_layout Itemize
 Is your backplate drilled precisely? 
 \end_layout
 
-\begin_layout Quotation
+\begin_deeper
+\begin_layout Itemize
 I have a recorded case where a microlight manufacturer had his backplates
  drilled by a so-called engineering works to save on costs.
  To my utter dismay I found that a set of ten propellers were vibrating.
  
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Quotation
+
+\begin_inset Newline newline
+\end_inset
+
 Only after monumental search all over S.A.
  could I establish that not one of the ten backplates were drilled precisely
  and that some of the bolt-holes in the backplate were out of alignment
@@ -4398,6 +4362,7 @@ Only after monumental search all over S.A.
  
 \end_layout
 
+\end_deeper
 \begin_layout Standard
 ------- oOo ------ 
 \end_layout
@@ -4656,11 +4621,8 @@ Any aircraft ever built and flown or has had the engine started is an excellent
  is stationary or taxiing or flying may be drawn into, fall into, drop into
  or be scooped up into the blades.
  I have had a personal experience where a hamburger exiting through my aircraft
- window damaged my propeller to such an 
-\end_layout
-
-\begin_layout Standard
-extent that a emergency landing was called for.
+ window damaged my propeller to such an extent that a emergency landing
+ was called for.
  Fortunately I did not experience enough vibration to warrant a complete
  engine shut-down.
  
@@ -4829,7 +4791,7 @@ Not all of the aircraft engines in the industry is capable of turning a
 \end_layout
 
 \begin_layout Standard
-NEED I SAY MORE??? 
+NEED I SAY MORE? 
 \end_layout
 
 \begin_layout Standard
@@ -4950,7 +4912,11 @@ Being curious to the extend of the damage caused by the disintegrating propeller
  To his utter amazement he found that two standard cement roof tiles had
  disappeared and had left a huge gap in the roof! One can only speculate
  on the power and force of the propeller splinter that had exited through
- the ceiling AND the cement roof tiles.
+ the ceiling 
+\emph on
+and
+\emph default
+ the cement roof tiles.
  
 \end_layout
 
@@ -4969,9 +4935,8 @@ YOU MUST BE A TOTAL NUMBSKULL IF YOU DON'T GET THE MORAL OF THIS STORY!
 ACTIONS IN CASE OF A PROPELLER STRIKE 
 \end_layout
 
-\begin_layout Standard
-WHILST AIRCRAFT IS STATIONARY.
- 
+\begin_layout Subsection*
+WHILST AIRCRAFT IS STATIONARY
 \end_layout
 
 \begin_layout Standard
@@ -5019,9 +4984,8 @@ REMEMBER THE WHOLE INCIDENT TOOK BUT A COUPLE OF SECONDS WHILE THE AIRCRAFT
 ------- oOo ------ 
 \end_layout
 
-\begin_layout Standard
-WHILE AIRBORNE.
- 
+\begin_layout Subsection*
+WHILE AIRBORNE
 \end_layout
 
 \begin_layout Standard
@@ -5083,12 +5047,10 @@ Let us assume that you have:- 1) heard a terrific bang and 2) the aircraft
 \end_layout
 
 \begin_layout Standard
-THROTTLE BACK IMMEDIATELY AND SET UP A GLIDE PATH SO THAT YOU HAVE TIME
- TO ASSES THE AMOUNT OF 
-\end_layout
 
-\begin_layout Standard
-VIBRATION YOU ARE EXPERIENCING.
+\emph on
+Throttle back immediately and set up a glide path so that you have time
+ to asses the amount of vibration you are experiencing.
  
 \end_layout
 
@@ -5125,13 +5087,11 @@ If you find that there is hardly any vibration at all (after having throttled
 \end_layout
 
 \begin_layout Standard
-IN ALL THE CASES YOU MUST LAND IMMEDIATELY FOR THE DAMAGE MAY BE MINUSCULE
- BUT WILL GROW FASTER THAN AN ATOM CAN BE SPLIT SHOULD THE ENGINE BE KEPT
- RUNNING AND SHOULD YOU CONTINUE FLYING! 
-\end_layout
 
-\begin_layout Standard
-24 
+\emph on
+In all the cases you must land immediately for the damage may be minuscule
+ but will grow faster than an atom can be split should the engine be kept
+ running and should you continue flying! 
 \end_layout
 
 \begin_layout Standard
@@ -5158,8 +5118,11 @@ Take for example your average two bladed microlight propeller fitted to
 \end_layout
 
 \begin_layout Standard
-A simple calculation using 3.14 * radius to the power of two shows the area
- covered by one single blade in one single revolution.
+A simple calculation using 
+\begin_inset Formula $A=2\pi r$
+\end_inset
+
+ shows the area covered by one single blade in one single revolution.
  
 \end_layout
 
@@ -5198,9 +5161,8 @@ divided by 2.58 which = 2558 revolutions per minute.
 
 \begin_layout Standard
 Divide 5116 by 60 seconds to obtain the count that both blades will pass
- a stationary object every second and we find that the answer = 5116
-\backslash
-60 = 85 times per second.
+ a stationary object every second and we find that the answer = 5116 / 60
+ = 85 times per second.
  
 \end_layout
 
@@ -5208,13 +5170,12 @@ Divide 5116 by 60 seconds to obtain the count that both blades will pass
 Multiply 85 * 4,4 sq.
  meters we find that both blades cover an area of 374 sq.
  meters per second! This is roughly equal to the area covered by two tennis
- courts! If we then multiply the area of 374 sq.
- meters by 60 ( to find the area covered by a two-bladed propeller in one
- minute) we find that it covers an area of 22440 sq.
- meters in one minute.
+ courts! If we then multiply the area of 374 meters² by 60 ( to find the
+ area covered by a two-bladed propeller in one minute) we find that it covers
+ an area of 22440 meters² in one minute.
  Mind boggling if one compares it to a tarred runway with a length of 2244
  meters or two kilometer with a width of 10 meters! And all of this in one
- minute! One could land a BOEING 747 on such a long runway! 
+ minute! One could land a Boeing 747 on such a long runway! 
 \end_layout
 
 \begin_layout Subsection*
@@ -5294,8 +5255,12 @@ This topic is one which needs frank discussion to sort out the old wife's
  to thrust.
  Yes, read it again and again, your eyes aren't deceiving you.
  I'll say it again a bit louder this time.
- A SINGLE BLADED PROPELLER IS THE MOST EFFICIENT TYPE OF PROPELLER AVAILABLE
- TO PILOTS.
+ 
+\emph on
+A SINGLE BLADED PROPELLER IS THE MOST EFFICIENT TYPE OF PROPELLER AVAILABLE
+ TO PILOTS
+\emph default
+.
  The next obvious question coming to mind varies from one of total disbelieve:
  
 \begin_inset Quotes eld
@@ -5533,8 +5498,8 @@ LENGTH:
 \begin_inset Newline newline
 \end_inset
 
-What is the recommended length? Can you go longer? Can you go shorter?.(NOT
- RECOMMENDED!) 
+What is the recommended length? Can you go longer? Can you go shorter? (Not
+ recommended) 
 \end_layout
 
 \begin_layout Enumerate
@@ -5581,7 +5546,7 @@ Important but not critical.
  Too much glue = NO,NO.
  Too much wood = NO,NO.
  Between 6 and 12 laminations is adequate for most wood propellers.
- ( Excluding scimitar designs.) 
+ (Excluding scimitar designs) 
 \end_layout
 
 \begin_layout Enumerate
@@ -5733,22 +5698,22 @@ Pitts Special Aerobatic Team
 If you look closely you will notice three distinct smoke patterns:- 
 \end_layout
 
-\begin_layout Standard
-1) As the PITTS travels in a straight and level path, with smoke switched
- on, you will notice that the smoke-trail is left virtually stationary behind
+\begin_layout Enumerate
+As the PITTS travels in a straight and level path, with smoke switched on,
+ you will notice that the smoke-trail is left virtually stationary behind
  the aircraft.
  
 \end_layout
 
-\begin_layout Standard
-2) The smoke-trail is cut into fairly distinct segments.
+\begin_layout Enumerate
+The smoke-trail is cut into fairly distinct segments.
  
 \end_layout
 
-\begin_layout Standard
-3) As the PITTS does a shoot-up and reaches the apex of it's climb, the
- aircraft ceases to fly and becomes a stationary object for a second or
- two, in an upright position.
+\begin_layout Enumerate
+As the PITTS does a shoot-up and reaches the apex of it's climb, the aircraft
+ ceases to fly and becomes a stationary object for a second or two, in an
+ upright position.
  
 \emph on
 Watch the smoke!
@@ -5949,10 +5914,6 @@ Judging from the above facts we can safely conclude that it is an absolute
  as the performance of microlights in general do not even come close to
  the range of speeds that a standard fixed pitch propeller can cover in
  normal circumstances! 
-\end_layout
-
-\begin_layout Standard
-27 
 \end_layout
 
 \begin_layout Standard
@@ -6603,16 +6564,16 @@ SO WHAT?!..you may ask.
 \end_layout
 
 \begin_layout Standard
-"OOPS, SORRY" 
+"Oops, sorry" 
 \end_layout
 
 \begin_layout Standard
-"IT'S OKAY".
+"It's okay".
  
 \end_layout
 
 \begin_layout Standard
-"I WASN'T TALKING TO YOU!" 
+"I wasn't talking to you!" 
 \end_layout
 
 \begin_layout Standard
@@ -6647,7 +6608,7 @@ Passenger (Fear on his face, shakily clutching saucer): "No!"
 \end_layout
 
 \begin_layout Standard
-Driver ( Syrupy smooth voice): "Come on, pal" 
+Driver ( Syrupy smooth voice): "Come on, Pal" 
 \end_layout
 
 \begin_layout Standard
@@ -6683,11 +6644,7 @@ Passenger: " I'll get my arm ripped off!"
 \end_layout
 
 \begin_layout Standard
-29 
-\end_layout
-
-\begin_layout Standard
-GET THE PICTURE??? 
+GET THE PICTURE? 
 \end_layout
 
 \begin_layout Standard
@@ -6740,15 +6697,11 @@ Any obvious runout, wobbling or off-center rotation.
 
 \begin_layout Standard
 When buying a spinner ask the seller if it is balanced, how it was balanced
- and if there are any special instructions that goes with the 
-\end_layout
-
-\begin_layout Standard
-package.
+ and if there are any special instructions that goes with the package.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 CUTTING.
  
 \end_layout
@@ -6765,25 +6718,20 @@ balance may go for a six if you remove more material from one side.
  
 \end_layout
 
-\begin_layout Standard
-PAINTING.
- 
+\begin_layout Subsubsection*
+PAINTING
 \end_layout
 
 \begin_layout Standard
-DON'T! ...
- .At least not by hand! I know you want to match the colors of your aircraft
+Don't! ...
+ At least not by hand! I know you want to match the colors of your aircraft
  BUT the spinner should only be sprayed while 
 \end_layout
 
 \begin_layout Standard
 being rotated on a revolving table and definitely not on the dining room
  table with a little lacquer can or, worse yet, with a paint brush.
- It is 
-\end_layout
-
-\begin_layout Standard
-critical that the paintwork of a spinner should be done slowly guarding
+ It is critical that the paintwork of a spinner should be done slowly guarding
  against runs and uneven application of the paint.
  
 \end_layout
@@ -6792,7 +6740,7 @@ critical that the paintwork of a spinner should be done slowly guarding
 ------- oOo ------ 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Section
 INFLUENCES ON YOUR PROPELLERS PERFORMANCE 
 \end_layout
 
@@ -6807,7 +6755,7 @@ Let me state here and now that a propeller's performance is the direct result
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 AIRCRAFT SHAPE.
  
 \end_layout
@@ -6823,12 +6771,8 @@ The obstacles in front of and behind a propeller has a great influence on
  Say, for argument's sake the propeller has a disc area of 5 sq.
  meters and say the windscreen and cowling has a flat-plate area of 3 sq.
  meters.
- Your propeller is 
-\end_layout
-
-\begin_layout Standard
-trying to blow the 3sq.meters away! What an absolutely useless waste of power
- and energy! 
+ Your propeller is trying to blow the 3sq.meters away! What an absolutely
+ useless waste of power and energy! 
 \end_layout
 
 \begin_layout Standard
@@ -6841,9 +6785,11 @@ Should you have a pusher type aircraft with obstacles like engine, fuel
 \end_layout
 
 \begin_layout Standard
-THE IDEA IS TO LET THE PROP WORK IN CLEAN INCOMING AIR, ACCELERATE IT AND
- MOVE IT IN THE OPPOSITE DIRECTION OF FLIGHT WITHOUT INTERFERENCE OF ANY
- KIND.
+
+\emph on
+The idea is to let the prop work in clean incoming air, accelerate it and
+ move it in the opposite direction of flight without interference of any
+ kind.
  
 \end_layout
 
@@ -6851,7 +6797,7 @@ THE IDEA IS TO LET THE PROP WORK IN CLEAN INCOMING AIR, ACCELERATE IT AND
 Unfortunately one has to put the aircraft somewhere! 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 ENGINE POWER OUTPUT VERSUS PROPELLER OUTPUT.
  
 \end_layout
@@ -6880,7 +6826,7 @@ One can never, never-ever, expect the performance to be constant when one
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 ENGINE PERFORMANCE 
 \end_layout
 
@@ -6914,7 +6860,7 @@ More often than not you buy a new aircraft with a new engine or, if the
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 NEW ENGINES.
  
 \end_layout
@@ -6928,7 +6874,7 @@ New engines, be it on new or old aircraft, need to be adjusted and calibrated
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 RUNNING-IN PROCEDURES.
  
 \end_layout
@@ -6953,7 +6899,7 @@ Even if the manufacturer of the aircraft or the person that has installed
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 OLD/USED ENGINES.
  
 \end_layout
@@ -6968,15 +6914,14 @@ t end.
  
 \end_layout
 
-\begin_layout Standard
-WARNING! BE ABSOLUTELY SURE THAT YOU'RE ENGINE IS IN TOP CONDITION BEFORE
- YOU ATTEMPT TO FLY OR GIVE SOME FORTUNATE SOUL A FLIP.
+\begin_layout Quote
+WARNING! Be absolutely sure that you're engine is in top condition before
+ you attempt to fly or give some fortunate soul a flip.
  
 \end_layout
 
-\begin_layout Standard
-WEATHER CONDITIONS.
- 
+\begin_layout Subsubsection*
+WEATHER CONDITIONS
 \end_layout
 
 \begin_layout Standard
@@ -6990,9 +6935,8 @@ When you were a student at some or other flight academy one of the subjects
  
 \end_layout
 
-\begin_layout Standard
-COOL DRY AIR.
- 
+\begin_layout Subsubsection*
+COOL DRY AIR
 \end_layout
 
 \begin_layout Standard
@@ -7021,9 +6965,8 @@ This type of cool dry air is normally experienced in winter.
  
 \end_layout
 
-\begin_layout Standard
-HOT HUMID AIR.
- 
+\begin_layout Subsubsection*
+HOT HUMID AIR
 \end_layout
 
 \begin_layout Standard
@@ -7056,13 +6999,12 @@ The problem that will confront you at 2 o'clock in the afternoon, at 32
 \end_layout
 
 \begin_layout Standard
-DON'T YOU THINK IT IS RATHER OBVIOUS WHAT YOU SHOULD REGARD AS IMPORTANT???
+DON'T YOU THINK IT IS RATHER OBVIOUS WHAT YOU SHOULD REGARD AS IMPORTANT?
  
 \end_layout
 
-\begin_layout Standard
-FATIGUE.
- 
+\begin_layout Subsubsection*
+FATIGUE
 \end_layout
 
 \begin_layout Standard
@@ -7102,7 +7044,7 @@ Fatigue is found in all materials in every day life and is mostly caused
  
 \end_layout
 
-\begin_layout Section
+\begin_layout Subsubsection*
 OVERSPINNING.
  
 \end_layout
@@ -7171,7 +7113,11 @@ Our maniacal pilot, blissfully ignorant of the above facts, continues on
  his downward dive while the rpm gauge winds up and away.
  Eventually the tips of the propeller succeeds in penetrating the sub sonic
  barriers and now has to deal with the sound barrier in person.
- I am sure most pilots have seen a movie called "THE RIGHT STUFF".
+ I am sure most pilots have seen a movie called "
+\shape smallcaps
+The right stuff
+\shape default
+".
  If you haven't seen it yet rush of to you're closest video shop and get
  it  ...
  .NOW! For those who have....Remember how the test pilot in the X-1 was banged
@@ -7355,20 +7301,12 @@ As sure as water is wet the oil deposit on your propeller will be affected
  Having excellent lifting and freeing capabilities, the oil starts to lift
  the paintwork in small bubbles.
  But wait!, not only does it have action in one direction, but also begins
- to penetrate the 
-\end_layout
-
-\begin_layout Standard
-thirsty wood.
+ to penetrate the thirsty wood.
  Soon the creeping destroyer comes upon the adhesive layer that holds one
  laminate to the other.
  Exactly what our oily friend has been waiting for! It slowly releases the
  tension of the adhesive and replaces the surface between the laminates
- with a smooth, friction free 
-\end_layout
-
-\begin_layout Standard
-oily surface.
+ with a smooth, friction free oily surface.
  The laminate in turn feels very happy to be free and curls away in minute
  quantities thus compounding our oily friends evil work.
  
@@ -7382,12 +7320,8 @@ The pilot returns three weeks later and discovers to his astonishment and
 \begin_layout Standard
 apart.
  Fuming he jumps on the telephone and sends the manufacturer a bullet and
- advises his fellow pilot friends against purchasing "X" brand 
-\end_layout
-
-\begin_layout Standard
-propeller! " 'CAUSE THE PROP STARTED TO DELAMINATE FOR NO REASON AT ALL"!
- 
+ advises his fellow pilot friends against purchasing "X" brand propeller!
+ "'Cause the prop started to delaminate for no reason at all"! 
 \end_layout
 
 \begin_layout Standard
@@ -7403,7 +7337,11 @@ it.
 \end_layout
 
 \begin_layout Standard
-REMEMBER TO REMOVE THE COVER BEFORE YOU FLY AGAIN.
+
+\emph on
+Remember to remove the cover before you fly again
+\emph default
+.
  Don't laugh, there are several pilots that started the engine with the
  prop 
 \end_layout
@@ -7411,22 +7349,14 @@ REMEMBER TO REMOVE THE COVER BEFORE YOU FLY AGAIN.
 \begin_layout Standard
 cover "in situ" just to have their eyeballs drop out at the sight of material
  dissipating and exiting from the airframe at tremendous speeds, not to
- 
-\end_layout
-
-\begin_layout Standard
-mention the WHACK! you will receive, should a piece of prop cover strike
+ mention the WHACK! you will receive, should a piece of prop cover strike
  you! 
 \end_layout
 
 \begin_layout Standard
 Use a good quality soft cloth to wipe the oil residue.
  Should there be a sticky layer of old accumulated oil deposit use some
- 
-\end_layout
-
-\begin_layout Standard
-METHYLATED SPIRITS to remove it.
+ METHYLATED SPIRITS to remove it.
  
 \end_layout
 
@@ -7446,10 +7376,6 @@ NEVER SPRAY THE PROP WITH AN OIL BASED CLEANER OR SILICONE SPRAY.
  the manufacturer have to remove all the paintwork and rebuild the protective
  finish.
  
-\end_layout
-
-\begin_layout Standard
-32 
 \end_layout
 
 \begin_layout Standard
@@ -7492,7 +7418,11 @@ FATIGUE REMEDIES
 \end_layout
 
 \begin_layout Standard
-! THERE ARE NO REMEDIES ! 
+! 
+\emph on
+THERE ARE NO REMEDIES
+\emph default
+ ! 
 \end_layout
 
 \begin_layout Section
@@ -7553,38 +7483,34 @@ Any type of cracks originating in the hub and surrounding areas.
  (SYMPTOMS OF SEVERE FATIGUE!) 
 \end_layout
 
-\begin_layout Standard
-WARNING: REMEMBER IF IT LOOKS BAD IT USUALLY IS! 
-\end_layout
+\begin_layout Quote
+WARNING: Remember
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
-IF IT LOOKS SERIOUS IT USUALLY IS! 
-\end_layout
+- If it looks bad it usually is!
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Standard
-IF IN DOUBT.
+- If it looks serious it usually is! 
+\begin_inset Newline newline
+\end_inset
+
+- If in doubt.
  ...
- .DON'T! 
+ Don't! 
 \end_layout
 
 \begin_layout Standard
 What, may you ask, is left for you to do? Well, actually very little, but
- there are a couple of maintenance and servicing jobs you can 
-\end_layout
-
-\begin_layout Standard
-do.
+ there are a couple of maintenance and servicing jobs you can do.
  
 \end_layout
 
 \begin_layout Standard
 First of all it is up to you to see that no oil accumulates on the surface
  of the blades.
- Wipe the blades regularly with a clean roller 
-\end_layout
-
-\begin_layout Standard
-towel or soft cloth.
+ Wipe the blades regularly with a clean roller towel or soft cloth.
  
 \end_layout
 
@@ -7609,10 +7535,6 @@ Small dents (5mm or less) may be filled with a reputable epoxy normally
 
 \begin_layout Standard
 ------- oOo ----- 
-\end_layout
-
-\begin_layout Standard
-- 
 \end_layout
 
 \begin_layout Section
@@ -7703,14 +7625,12 @@ AT ROTATION, CLIMB-OUT, CRUISE OR MAX.
  By this method you keep the length of the prop (which is very important),
  but you subtract from the total blade area so the engine has to move less
  air).
- HOWEVER, I WOULD LIKE TO SAY THAT THIS IS THE RISKIEST MOVE OF ALL.
- IT MEANS THAT YOU WILL HAVE TO RE-SHAPE THE AIRFOIL SECTION BECAUSE THE
- TRAILING EDGE WILL BE BULKY AND INEFFICIENT.
  
-\end_layout
-
-\begin_layout Standard
-33 
+\emph on
+However, I would like to say that this is the riskiest move of all.
+ it means that you will have to re-shape the airfoil section because the
+ trailing edge will be bulky and inefficient.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -7721,7 +7641,7 @@ AT ROTATION, CLIMB-OUT, CRUISE OR MAX.
  attempt at altering the pitch of a wood prop.
  Theoretically the idea is magnificent, but practically.
  ...
- .???? Should you decide on the latter...GIVE ME A CALL.
+ .?? Should you decide on the latter...GIVE ME A CALL.
  
 \end_layout
 
@@ -7783,16 +7703,11 @@ In all of the above cases you should re-check your readings all over again
 THE LEADING EDGE PROTECTION SAGA 
 \end_layout
 
-\begin_layout Standard
-WARNING! WARNING! WARNING! 
-\end_layout
-
-\begin_layout Standard
-! PLEASE BEAR IN MIND WHATEVER PROP YOU FLY:- IT WAS DESIGNED TO PROPEL
- AN AIRCRAFT THROUGH CLEAN, CLEAR AIR....
-  ...
- .AND NOT FOR USAGE AS A LAWN-MOWER OR RUNWAY CONSTRUCTION TOOL/DUSTER/LEVELER
- KIT.! 
+\begin_layout Quote
+WARNING: Please bear in mind whatever prop you fly:- it was designed to
+ propel an aircraft through clean, clear air ...
+ and not for usage as a lawn-mower or runway construction tool/duster/leveler
+ kit! 
 \end_layout
 
 \begin_layout Standard
@@ -7886,7 +7801,7 @@ Any breach in the leading edge of a propeller immediately becomes a potential
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 FIBERGLASS PROTECTION AND DISEASE 
 \end_layout
 
@@ -7959,7 +7874,7 @@ I have yet to see a successful application of fiberglass and resin on a
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 METAL EDGE PROTECTION DISEASE 
 \end_layout
 
@@ -8004,7 +7919,7 @@ The second disease that attacks propellers with a metal edge is dry/wet
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 SYMPTOMS OF LEADING EDGE DISEASE 
 \end_layout
 
@@ -8281,7 +8196,7 @@ DON'T OVERTIGHTEN THE PROPELLER.
 
 \begin_layout Standard
 DON'T START, RUN, REV the engine in the hanger.
- You will damage something GUARANTEED! REMEMBER you have 2000Kg's worth
+ You will damage something, GUARANTEED! REMEMBER you have 2000Kg's worth
  of propeller swinging back there! 
 \end_layout
 
@@ -8293,17 +8208,13 @@ DON'T START, RUN, REV the engine when any living human OR animal OR object
 
 \begin_layout Standard
 DON'T EVER ADJUST THE ENGINE WHILE IT IS RUNNING AND TURNING A PROPELLER!
- 
+ !NEVER, NEVER, NEVER, NEVER, NEVER, NEVER! 
 \end_layout
 
 \begin_layout Standard
-!NEVER, NEVER, NEVER, NEVER, NEVER, NEVER! 
-\end_layout
-
-\begin_layout Standard
-DON'T FIDDLE WITH YOUR PROP, EVEN IF IT IS GROUND ADJUSTABLE.
- IT WASN'T DESIGNED TO BE SET IN HASTE, WITH LESS THAN PERFECT MEASURING
- EQUIPMENT, IN A LESS THAN PERFECT ENVIRONMENT.
+DON'T FIDDLE WITH YOUR PROP, even if it is ground adjustable.
+ it wasn't designed to be set in haste, with less than perfect measuring
+ equipment, in a less than perfect environment.
  
 \end_layout
 
@@ -8379,16 +8290,13 @@ DO...SWEEP THE FIRST 20M OF YOUR RUNWAY REGULARLY.
 \end_layout
 
 \begin_layout Standard
-!"COME ON GUYS! ...
- ....LET'S PUT SOME EFFORT INTO IT"! 
+"Come on guys! ...
+ let's put some effort into it, keep your prop as long as possible for as
+ long as possible" 
 \end_layout
 
 \begin_layout Standard
-" KEEP YOUR PROP AS LONG AS POSSIBLE FOR AS LONG AS POSSIBLE " 
-\end_layout
-
-\begin_layout Standard
-------- oOo ------ 36 
+------- oOo ------ 
 \end_layout
 
 \begin_layout Section
@@ -8429,26 +8337,42 @@ DEFINITIONS AND TERMS
 \end_layout
 
 \begin_layout Standard
-Aerodynamics: That branch of dynamics that deals with the relative motion
- between air and objects in it and the reactions created by those interactions.
+
+\series bold
+Aerodynamics
+\series default
+: That branch of dynamics that deals with the relative motion between air
+ and objects in it and the reactions created by those interactions.
  
 \end_layout
 
 \begin_layout Standard
-Aerodynamic force: Any force generated by the relative motion of air upon
- a body immersed in it.
+
+\series bold
+Aerodynamic force
+\series default
+: Any force generated by the relative motion of air upon a body immersed
+ in it.
  
 \end_layout
 
 \begin_layout Standard
-Air: A mixture of the various gasses that compose the earth's atmosphere.
+
+\series bold
+Air
+\series default
+: A mixture of the various gasses that compose the earth's atmosphere.
  Its main ingredients include 21% oxygen and 78% nitrogen, plus a mixture
  of inert gasses.
  
 \end_layout
 
 \begin_layout Standard
-Aircraft: The term applies to any and all vehicles of the air.
+
+\series bold
+Aircraft
+\series default
+: The term applies to any and all vehicles of the air.
  It includes any man-made structure, machine , designed to be supported
  by the air either by dynamic reactions with the air or by its own buoyancy
  in the air.
@@ -8460,38 +8384,66 @@ Aircraft: The term applies to any and all vehicles of the air.
 \end_layout
 
 \begin_layout Standard
-Airflow: Motion of a stream of air.
+
+\series bold
+Airflow
+\series default
+: Motion of a stream of air.
  
 \end_layout
 
 \begin_layout Standard
-Airfoil: Any structure, such as a propeller blade or wing, around which
- air flows to provide a reaction useful for flight.
+
+\series bold
+Airfoil
+\series default
+: Any structure, such as a propeller blade or wing, around which air flows
+ to provide a reaction useful for flight.
  
 \end_layout
 
 \begin_layout Standard
-Airspeed: The speed with which an aircraft moves relative to the air.
+
+\series bold
+Airspeed
+\series default
+: The speed with which an aircraft moves relative to the air.
  
 \end_layout
 
 \begin_layout Standard
-Airworthy propeller: A propeller in condition for safe flight.
+
+\series bold
+Airworthy propeller
+\series default
+: A propeller in condition for safe flight.
  
 \end_layout
 
 \begin_layout Standard
-Aviation: The art of flying by mechanical means, especially with airplanes.
+
+\series bold
+Aviation
+\series default
+: The art of flying by mechanical means, especially with airplanes.
  
 \end_layout
 
 \begin_layout Standard
-Blade: One "wing" of a propeller.
+
+\series bold
+Blade
+\series default
+: One "wing" of a propeller.
  
 \end_layout
 
 \begin_layout Standard
-Blade area: The area or "size" of both blades.
+
+\series bold
+Blade area
+\series default
+: The area or "size" of both blades.
  The area is determined by the engine power.
  A certain area is needed for a certain engine to absorb the power available
  and convert it to usable thrust.
@@ -8499,18 +8451,30 @@ Blade area: The area or "size" of both blades.
 \end_layout
 
 \begin_layout Standard
-Blade chord: The width of an aerodynamic surface, such as the length of
- a propeller from leading edge to trailing edge.
+
+\series bold
+Blade chord
+\series default
+: The width of an aerodynamic surface, such as the length of a propeller
+ from leading edge to trailing edge.
  
 \end_layout
 
 \begin_layout Standard
-Camber: The curvature of an airfoil, expressed as a percentage of its chord.
+
+\series bold
+Camber
+\series default
+: The curvature of an airfoil, expressed as a percentage of its chord.
  
 \end_layout
 
 \begin_layout Standard
-Composite: Generally referring to construction.
+
+\series bold
+Composite
+\series default
+: Generally referring to construction.
  It primarily connotes a foam core fiberglass sandwich, although any structure
  that uti lizes more than one type of material could be considered a composite
  structure.
@@ -8518,29 +8482,45 @@ Composite: Generally referring to construction.
 \end_layout
 
 \begin_layout Standard
-Cruise speed: The speed normally flown, which is below top speed, for cross
- country flight because of economic and engine life reasons.
+
+\series bold
+Cruise speed
+\series default
+: The speed normally flown, which is below top speed, for cross country
+ flight because of economic and engine life reasons.
  It is generally quoted as that speed which occurs at a power setting between
  65% - 75% of maximum engine power.
  
 \end_layout
 
 \begin_layout Standard
-Drag: The total aerodynamic force tending to retard an aircraft's motion
- through the air.
+
+\series bold
+Drag
+\series default
+: The total aerodynamic force tending to retard an aircraft's motion through
+ the air.
  It is made up of induced drag, parasitic drag and profile drag components.
  Thrust is required to overcome drag.
  
 \end_layout
 
 \begin_layout Standard
-Drive-shaft: An extension shaft connecting the engine to the prop flange.
+
+\series bold
+Drive-shaft
+\series default
+: An extension shaft connecting the engine to the prop flange.
  Mostly used where the engine is situated on top of, or below the wing or
  in the mid section of the fuselage 
 \end_layout
 
 \begin_layout Standard
-Direct drive: The propeller is driven directly by the engine.
+
+\series bold
+Direct drive
+\series default
+: The propeller is driven directly by the engine.
  The propeller is fitted to the extension of the crankshaft by means of
  a flange as is the case in most V.W.
  engine powered aircraft.
@@ -8549,26 +8529,41 @@ Direct drive: The propeller is driven directly by the engine.
 \end_layout
 
 \begin_layout Standard
-Empty weight: The weight of an unoccupied and unloaded aircraft, including:
- hydraulic fluid, engine coolant, undrainable oil, unusable fuel and any
- attached ballast weights.
+
+\series bold
+Empty weight
+\series default
+: The weight of an unoccupied and unloaded aircraft, including: hydraulic
+ fluid, engine coolant, undrainable oil, unusable fuel and any attached
+ ballast weights.
  
 \end_layout
 
 \begin_layout Standard
-Fixed-pitch propeller: A propeller with blades not adjustable in flight.
+
+\series bold
+Fixed-pitch propeller
+\series default
+: A propeller with blades not adjustable in flight.
  
 \end_layout
 
 \begin_layout Standard
-Flutter: A harmonic vibration or oscillation induced by aerodynamic forces
- on a propeller blade.
+
+\series bold
+Flutter
+\series default
+: A harmonic vibration or oscillation induced by aerodynamic forces on a
+ propeller blade.
  
 \end_layout
 
 \begin_layout Standard
-Gearbox-drive: A drive where various gears in various ratios are used to
- reduce the r.p.m.
+
+\series bold
+Gearbox-drive
+\series default
+: A drive where various gears in various ratios are used to reduce the r.p.m.
  of the propeller to suite the requirements of the aircraft.
  The propeller rotates in the opposite direction to the engine.
  Mostly used on microlight aircraft but also found in the amateur-built
@@ -8577,76 +8572,121 @@ Gearbox-drive: A drive where various gears in various ratios are used to
 \end_layout
 
 \begin_layout Standard
-Ground adjustable propeller: A propeller with blades adjustable on the ground.
+
+\series bold
+Ground adjustable propeller
+\series default
+: A propeller with blades adjustable on the ground.
  
 \end_layout
 
 \begin_layout Standard
-37 
-\end_layout
 
-\begin_layout Standard
-Hub: The center section of a propeller.
+\series bold
+Hub
+\series default
+: The center section of a propeller.
  
 \end_layout
 
 \begin_layout Standard
-Induced drag: Drag due to lift.
+
+\series bold
+Induced drag
+\series default
+: Drag due to lift.
  
 \end_layout
 
 \begin_layout Standard
-Laminar flow: Airflow in which there is no intermixing of streamlines.
+
+\series bold
+Laminar flow
+\series default
+: Airflow in which there is no intermixing of streamlines.
  
 \end_layout
 
 \begin_layout Standard
-Maneuver speed: The highest safe speed for abrupt maneuvers or for very
- rough air.
+
+\series bold
+Maneuver speed
+\series default
+: The highest safe speed for abrupt maneuvers or for very rough air.
  
 \end_layout
 
 \begin_layout Standard
-Minimum flying speed: The lowest airspeed at which an aircraft can maintain
- altitude out of ground effect.
+
+\series bold
+Minimum flying speed
+\series default
+: The lowest airspeed at which an aircraft can maintain altitude out of
+ ground effect.
  
 \end_layout
 
 \begin_layout Standard
-Parasite drag: Drag caused by all none lifting parts of an aircraft.
+
+\series bold
+Parasite drag
+\series default
+: Drag caused by all none lifting parts of an aircraft.
  
 \end_layout
 
 \begin_layout Standard
-Propeller pitch: The theoretical distance a propeller moves forward with
- each revolution.
+
+\series bold
+Propeller pitch
+\series default
+: The theoretical distance a propeller moves forward with each revolution.
  
 \end_layout
 
 \begin_layout Standard
-Rate of climb: The vertical speed, or speed at which an aircraft gains altitude,
- usually quoted in feet per minute at sea level air density 
+
+\series bold
+Rate of climb
+\series default
+: The vertical speed, or speed at which an aircraft gains altitude, usually
+ quoted in feet per minute at sea level air density 
 \end_layout
 
 \begin_layout Standard
-Reduction drive: Belt-driven or gearbox.
+
+\series bold
+Reduction drive
+\series default
+: Belt-driven or gearbox.
  The idea is to slow the prop r.p.m.
  down so that a longer and more efficient propeller may be fitted to the
  aircraft engine 
 \end_layout
 
 \begin_layout Standard
-Sink rate: The vertical speed at which an aircraft descends in still air.
+
+\series bold
+Sink rate
+\series default
+: The vertical speed at which an aircraft descends in still air.
  
 \end_layout
 
 \begin_layout Standard
-Span: The length of a propeller from tip to tip 
+
+\series bold
+Span
+\series default
+: The length of a propeller from tip to tip 
 \end_layout
 
 \begin_layout Standard
-Thrust: The motive force provided by an airplane propeller in overcoming
- the drag.
+
+\series bold
+Thrust
+\series default
+: The motive force provided by an airplane propeller in overcoming the drag.
  As the propeller rotates an airflow passes over the blades in the opposite
  direction in exactly the same way as an airflow passes over the wing.
  The blade is inclined at an angle to this airflow and so obtains a re-action
@@ -8655,29 +8695,49 @@ Thrust: The motive force provided by an airplane propeller in overcoming
 \end_layout
 
 \begin_layout Standard
-Thrust line: The imaginary line through which the thrust acts.
+
+\series bold
+Thrust line
+\series default
+: The imaginary line through which the thrust acts.
  
 \end_layout
 
 \begin_layout Standard
-Torque: Torque is the resistance of a propeller to rotation.
+
+\series bold
+Torque
+\series default
+: Torque is the resistance of a propeller to rotation.
  It has a considerable effect on the aircraft in various conditions of flight,
  because the resistance of the propeller to rotation tends to turn the aircraft
  the opposite way 
 \end_layout
 
 \begin_layout Standard
-Turbulence: Rough air caused by streamlines mixing together.
+
+\series bold
+Turbulence
+\series default
+: Rough air caused by streamlines mixing together.
  
 \end_layout
 
 \begin_layout Standard
-Variable-pitch propeller: A propeller whose angle can be adjusted in flight.
+
+\series bold
+Variable-pitch propeller
+\series default
+: A propeller whose angle can be adjusted in flight.
  
 \end_layout
 
 \begin_layout Standard
-Vortices: A twisting air motion occurring primarily at proptips.
+
+\series bold
+Vortices
+\series default
+: A twisting air motion occurring primarily at proptips.
  They are caused by the pressure difference that exist between the upper
  and lower surfaces of a prop.
  The air spills out from under the wing and curls over to the lower pressure
@@ -8685,18 +8745,27 @@ Vortices: A twisting air motion occurring primarily at proptips.
  The strength of such vortices depends on a propeller's tip shape and aspect
  ratio.
  If stationary, a prop tip vortices may be able to "suck" in a golf ball
- sized object 200mm high 
-\end_layout
-
-\begin_layout Standard
-Windmilling: A propeller turning from a reaction with the relative wind
- and not by ithe engine.
+ sized object 200mm high.
  
 \end_layout
 
 \begin_layout Standard
-Wash: The airflow field behind a propeller, created by the propeller as
- it passes through the atmosphere 
+
+\series bold
+Windmilling
+\series default
+: A propeller turning from a reaction with the relative wind and not by
+ ithe engine.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Wash
+\series default
+: The airflow field behind a propeller, created by the propeller as it passes
+ through the atmosphere 
 \end_layout
 
 \begin_layout Section
@@ -8735,232 +8804,742 @@ P.PROP has also received a Silver Status award as a Supplier to BAE Systems
 -------oOo------- 
 \end_layout
 
-\begin_layout Standard
-CHAMPIONS THAT FLY P " CHAMPION " PROPS 
+\begin_layout Subsubsection*
+Champions that fly P "Champion" PROPS 
 \end_layout
 
 \begin_layout Standard
-YEAR AIRCRAFT AWARD PILOT 
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="50col%">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+YEAR
 \end_layout
 
-\begin_layout Standard
-1989 KR2 Margate EAA winner Tony van den Heuvel 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AIRCRAFT
 \end_layout
 
-\begin_layout Standard
-1990 KR2 Margate EAA multiple award winner Martin Clarke 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AWARD
 \end_layout
 
-\begin_layout Standard
-1991 KR2 Margate EAA GRAND CHAMPION Dave King 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PILOT
 \end_layout
 
-\begin_layout Standard
-1992 TIPSY NIPPER Margate EAA GRAND CHAMPION Glen Ray 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1989
 \end_layout
 
-\begin_layout Standard
-1st BEST VW POWERED 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KR2
 \end_layout
 
-\begin_layout Standard
-2nd BEST TUBE AND FABRIC 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Margate EAA winner
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tony van den Heuvel
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1990
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KR2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Margate EAA multiple award winner
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Martin Clarke 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1991
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KR2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Margate EAA Grand Champion
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Dave King 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1992
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Tipsy Nipper
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Margate EAA Grand Champion, 1st Best VW Powered, 2nd Best Tube and Fabric
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Glen Ray 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
 *** HONORARY AWARDS *** 
 \end_layout
 
 \begin_layout Standard
-1992 TRIKE MICROLIGHT WORLD CHAMPION Mike Blyth 38 
+\begin_inset Tabular
+<lyxtabular version="3" rows="13" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="50col%">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+YEAR
 \end_layout
 
-\begin_layout Standard
-1994 TRIKE MICROLIGHT WORLD CHAMPION Mike Blyth 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+AWARD
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+PILOT
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1992
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike Microlight World Champion
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mike Blyth 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1994
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike Microlight World Champion 
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align left
 Overall winner of the microlight championships 1992 in Spain with more than
- one thousand points ahead of his nearest rival, chose a 
-\end_layout
-
-\begin_layout Standard
-standard two bladed saligna P.PROP to propel him to victory.
+ one thousand points ahead of his nearest rival, chose a standard two bladed
+ saligna P.PROP to propel him to victory.
  
 \end_layout
 
-\begin_layout Standard
-1996 TRIKE S.A.
- NATIONAL CHAMPION MOOREES DU TOIT 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mike Blyth 
 \end_layout
 
-\begin_layout Standard
-1988 TRIKE WORLD ALTITUDE RECORD 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1996
 \end_layout
 
-\begin_layout Standard
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TRIKE S.A.
+ National Champion
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Moorees Du Toit 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1988
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike World Altitude Record 
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align left
 Mike Blyth was propelled to achieve a record altitude of 25013 feet ASL
  with a P.PROP being the force behind the engine.
- (Unfortunately the 
+ (Unfortunately the record was not recognized by the authorities at the
+ time) 
 \end_layout
 
-\begin_layout Standard
-record was not recognized by the authorities at the time.) 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Mike Blyth
 \end_layout
 
-\begin_layout Standard
-1996 TRIKE S.A.
- NATIONAL CHAMPION / SPRINGBOK MOOREES DU TOIT 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1996
 \end_layout
 
-\begin_layout Standard
-1ST SINGLE SEATER CLASS/ 1ST OVERALL 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike S.A.
+ National Champion, 
+\begin_inset Newline newline
+\end_inset
+
+1st Single Seater Class / 1st Overall
 \end_layout
 
-\begin_layout Standard
-ENGINE: ROTAX 503 - 52HP - 2STROKE + 2.58 G/BOX + 63" BY 34" PITCH PROP 
+\begin_layout Plain Layout
+\noindent
+\align left
+
+\size small
+Engine: Rotax 503 - 52hp - 2stroke + 2.58 G/Box + 63" by 34" Pitch Prop
 \end_layout
 
-\begin_layout Standard
-1998 TRIKE S.A.
- NATIONAL CHAMPION / SPRINGBOK BILL ANDERSON 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Springbok, Moorees Du Toit 
 \end_layout
 
-\begin_layout Standard
-1ST TWO SEATER CLASS / 1ST OVERALL 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1998
 \end_layout
 
-\begin_layout Standard
-ENGINE: HKS700 - 60HP - 4STROKE + 3.47 G/BOX + 76" BY 51" PITCH PROP 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike S.A.
+ National Champion, 1st Two Seater Class / 1st Overall 
 \end_layout
 
-\begin_layout Standard
-1998 TRIKE S.A.
- NATIONAL CHAMPION / SPRINGBOK.
- NOEL MC'COURRAGH 
+\begin_layout Plain Layout
+\noindent
+\align left
+
+\size small
+Engine: Hks700 - 60hp - 4stroke + 3.47 G/Box + 76" By 51" Pitch Prop 
 \end_layout
 
-\begin_layout Standard
-1ST SINGLE SEATER CLASS/ 2ND OVERALL 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Springbok, Bill Anderson
 \end_layout
 
-\begin_layout Standard
-ENGINE: ROTAX 582 - 64HP W/COOLED - 2STROKE + 3.47 G/BOX + 72" BY 50" PITCH
- PROP 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1998
 \end_layout
 
-\begin_layout Standard
-1998 TRIKE S.A.
- NATIONAL CHAMPION / SPRINGBOK.
- MOOREES DU TOIT 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike S.A.
+ National Champion, 1st Single Seater Class/ 2nd Overall 
 \end_layout
 
-\begin_layout Standard
-2ND TWO SEATER CLASS / 5TH OVERALL 
+\begin_layout Plain Layout
+\noindent
+\align left
+
+\size small
+Engine: Rotax 582 - 64hp W/Cooled - 2stroke + 3.47 G/Box + 72" By 50" Pitch
+ Prop 
 \end_layout
 
-\begin_layout Standard
-ENGINE: ROTAX 462 - 52HP W/COOLED - 2STROKE + 2.58 G/BOX + 63" BY 34" PITCH
- PROP 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Springbok, Noel Mc'courragh 
 \end_layout
 
-\begin_layout Standard
-1998 TRIKE S.A.
- NATIONAL CHAMPION / SPRINGBOK.
- BRIAN YOUNG 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1998
 \end_layout
 
-\begin_layout Standard
-2ND SINGLE SEATER CLASS / 3RD OVERALL 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike S.A.
+ National Champion, 2nd Two Seater Class / 5th Overall 
 \end_layout
 
-\begin_layout Standard
-ENGINE: ROTAX 503 - 52HP - 2STROKE + 2.58 G/BOX + 63" BY 35 " PITCH PROP
+\begin_layout Plain Layout
+\noindent
+\align left
+
+\size small
+Engine: Rotax 462 - 52hp W/Cooled - 2stroke + 2.58 G/Box + 63" By 34" Pitch
+ Prop 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Springbok, Moorees Du Toit
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1998
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike S.A.
+ National Champion, 2nd Single Seater Class / 3rd Overall 
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align left
+
+\size small
+Engine: Rotax 503 - 52hp - 2stroke + 2.58 G/Box + 63" By 35" Pitch Prop 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Springbok, Brian Young
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1998
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Trike S.A.
+ National Champion, 7th Two Seater Class 
+\end_layout
+
+\begin_layout Plain Layout
+\noindent
+\align left
+
+\size small
+Engine: Rotax 912 - 80hp - 4stroke + 2.273 G/Box + 65" By 45" Pitch Prop
  
 \end_layout
 
-\begin_layout Standard
-1998 TRIKE S.A.
- NATIONAL CHAMPION / SPRINGBOK.
- DANIE MEYER 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Springbok, Danie Meyer
 \end_layout
 
-\begin_layout Standard
-7TH TWO SEATER CLASS 
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+1999
 \end_layout
 
-\begin_layout Standard
-ENGINE: ROTAX 912 - 80HP - 4STROKE + 2.273 G/BOX + 65" BY 45" PITCH PROP
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\noindent
+\align left
+Jabiru 2nd place State Presidents Race 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2000
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\noindent
+\align left
+Jabiru won the statepresidents race and came in 1st and 3rd with P.PROP.
  
 \end_layout
 
-\begin_layout Standard
-1998 AND 1999 JABIRU 2NDPLACE STATE PRESIDENTS RACE 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
-\begin_layout Standard
-Jabiru won the statepresidents race and came in 1st and 3rd with P.PROP in
- July 2000 
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 WHAT DO THE CHAMPIONS SAY ABOUT P "CHAMPION" PROPS? 
 \end_layout
 
 \begin_layout Standard
-ALLAN PILLS INSTRUCTOR KLIPRIVER “ THE BEST PERFORMANCE YET” 
+Allan Pills (Instructor Klipriver):- “ The best performance yet” 
 \end_layout
 
 \begin_layout Standard
-BILL ANDERSON INSTRUCTOR PANORAMA /CURRENT S.A.
- CHAMPION:- " P.
+Bill Anderson Instructor Panorama / Current S.A.
+ Champion:- "P.
  PROP is superb!" 
 \end_layout
 
 \begin_layout Standard
-DAVE KING SAA 747 AIRBUS SENIOR PILOT:- "I've experienced no problems...P.Prop
- is going FINE!" 
+Dave King Saa 747 Airbus Senior Pilot:- "I've experienced no problems ...
+ P.Prop is going FINE!" 
 \end_layout
 
 \begin_layout Standard
-GLEN RAY INSTRUCTOR VRYHEID:- " P.PROP "Champion" props are smooth, powerful
+Glen Ray Instructor Vryheid:- " P.PROP "Champion" props are smooth, powerful
  and performs as claimed".
  
 \end_layout
 
 \begin_layout Standard
-BRIAN YOUNG INSTRUCTOR BARBERTON “There’s no comparison in performance to
- anything else” 
+Brian Young Instructor Barberton:- “There’s no comparison in performance
+ to anything else” 
 \end_layout
 
 \begin_layout Standard
-LOUIS VAN WYK INSTRUCTOR FISANTEKRAAL, CAPE “ P.PROP Service is unbeatable
- and the props perform better than anything else i know of” 
+Louis Van Wyk Instructor Fisantekraal, Cape “ P.PROP Service is unbeatable
+ and the props perform better than anything else I know of” 
 \end_layout
 
 \begin_layout Standard
-BOET LOBSER – BUILDER OF OVER 50 BUSHBABIES – ONLY FITS A P.PROP 
+Boet Lobser – Builder of over 50 Bushbabies – Only fits a P.PROP 
 \end_layout
 
 \begin_layout Standard
-DE NEL AEROSPACE SYSTEMS USES P.PROP ON THEIR LATEST RPV AIRCRAFT.
+DENEL Aerospace Systems Uses P.PROP On their latest RPV Aircraft.
  
 \end_layout
 
 \begin_layout Standard
 ------- oOo ------ 
-\end_layout
-
-\begin_layout Standard
-39 
-\end_layout
-
-\begin_layout Standard
-40 
-\end_layout
-
-\begin_layout Standard
-41 
 \end_layout
 
 \end_body
