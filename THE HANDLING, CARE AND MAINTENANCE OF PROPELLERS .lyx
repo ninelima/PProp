@@ -549,8 +549,7 @@ setcounter{page}{1}
 \end_layout
 
 \begin_layout Section
-FIXED PITCH WOOD PROPELLERS.
- 
+FIXED PITCH WOOD PROPELLERS
 \end_layout
 
 \begin_layout Enumerate
@@ -903,7 +902,7 @@ e in leading edge protection.
 \end_layout
 
 \begin_layout Subsection*
-SUPPLIER TO:- 
+SUPPLIER TO:  
 \end_layout
 
 \begin_layout Subsubsection*
@@ -959,7 +958,7 @@ h) Jabiru SA
 \end_layout
 
 \begin_layout Subsection*
-MANUFACTURERS OF:- 
+MANUFACTURERS OF:  
 \end_layout
 
 \begin_layout Standard
@@ -970,7 +969,7 @@ Two bladed multi-laminated wood propellers for all light aircraft, homebuilt
 \end_layout
 
 \begin_layout Subsection*
-SERVICING OF:- 
+SERVICING OF:  
 \end_layout
 
 \begin_layout Standard
@@ -981,7 +980,7 @@ All two and three bladed multi-laminated wood and composite propellers for
 \end_layout
 
 \begin_layout Subsection*
-REBUILDING AND REFURBISHING OF:- 
+REBUILDING AND REFURBISHING OF:  
 \end_layout
 
 \begin_layout Standard
@@ -992,7 +991,7 @@ Damaged two and three bladed multi-laminated wood and composite propellers
 \end_layout
 
 \begin_layout Subsection*
-DESIGNING AND MANUFACTURING OF:- 
+DESIGNING AND MANUFACTURING OF:  
 \end_layout
 
 \begin_layout Standard
@@ -1079,8 +1078,7 @@ Each laminate is split and planed to suit measurements and requirements
 \end_layout
 
 \begin_layout Subsection*
-ADHESIVE.
- 
+ADHESIVE
 \end_layout
 
 \begin_layout Standard
@@ -1096,8 +1094,7 @@ The best quality Phenol-Formaldehyd adhesive is used in the laminating process
 \end_layout
 
 \begin_layout Subsection*
-CUTTING.
- 
+CUTTING
 \end_layout
 
 \begin_layout Standard
@@ -1122,7 +1119,7 @@ WARNING:
 \end_layout
 
 \begin_layout Quotation
-Please bear in mind whatever prop you fly:- it was designed to propel an
+Please bear in mind whatever prop you fly:  it was designed to propel an
  aircraft through clean, clear air ...
  and not for usage as a lawn-mower or runway construction tool/duster/leveler
  kit! 
@@ -1181,19 +1178,21 @@ An even distribution of weight is maintained, to assist in balancing the
 \begin_layout Enumerate
 The laminar airflow over the airfoil is flawless and smooth to improve power
  performance by reducing
-\begin_inset Newline newline
-\end_inset
+\end_layout
 
-a) early interruption and; 
-\begin_inset Newline newline
-\end_inset
+\begin_deeper
+\begin_layout Enumerate
+early interruption and; 
+\end_layout
 
-b) break-away of the airflow over the wing, as is the case in external applicati
-ons of edging i.e.
+\begin_layout Enumerate
+break-away of the airflow over the wing, as is the case in external applications
+ of edging i.e.
  helicopter tape, metal edging etc.
  
 \end_layout
 
+\end_deeper
 \begin_layout Standard
 Finally, a further two coats of satin smooth, high gloss quality Duco is
  applied for perfection in balance and lasting excellence in durability.
@@ -1201,8 +1200,7 @@ Finally, a further two coats of satin smooth, high gloss quality Duco is
 \end_layout
 
 \begin_layout Section
-P.PROP DESIGN.
- 
+P.PROP DESIGN
 \end_layout
 
 \begin_layout Standard
@@ -1212,17 +1210,16 @@ The propeller is theoretically designed using a computer utilizing the rotary
 \end_layout
 
 \begin_layout Subsection*
-PROPELLER IDENTIFICATION.
- 
+PROPELLER IDENTIFICATION
 \end_layout
 
 \begin_layout Standard
 On receiving your prop please check for the following identification marks
- on the hub:- 
+ on the hub:  
 \end_layout
 
 \begin_layout Description
-P.PROP - Brandname, manufacturers identification.
+P.PROP - Brandname, Manufacturers identification.
  
 \end_layout
 
@@ -1288,12 +1285,8 @@ The identification marks must be entered into your airframe logbook by an
 
 \begin_layout Enumerate
 Contact the manufacturer of your propeller for the id.
- of your prop as the manufacturer is required by 
-\end_layout
-
-\begin_layout Enumerate
-Aviation law to keep a record of all props manufactured for a period of
- not less than 10 years.
+ of your prop as the manufacturer is required by Aviation law to keep a
+ record of all props manufactured for a period of not less than 10 years.
  
 \end_layout
 
@@ -1311,8 +1304,7 @@ Before delivery a final quality inspection against a number of measurements
 \end_layout
 
 \begin_layout Section
-ON RECEIVING YOUR PROP.
- 
+ON RECEIVING YOUR PROP
 \end_layout
 
 \begin_layout Standard
@@ -1322,7 +1314,7 @@ Please check the following as no claims of damage will be entertained after
 \end_layout
 
 \begin_layout Enumerate
-Transport damage:- in the case where your prop was delivered you should
+Transport damage:  in the case where your prop was delivered you should
  scrutinize the package for manhandling such as tear marks or obvious breaches
  in the package material.
  Any signs of such damage are of great concern as the propeller leaves the
@@ -1339,7 +1331,7 @@ Using a soft cloth wipe the prop taking care not to bump or drop it as any
 \end_layout
 
 \begin_layout Enumerate
-If you're not installing the propeller immediately wrap the prop in a soft
+If you are not installing the propeller immediately wrap the prop in a soft
  blanket rolling it over and over completely covering all the edges, or,
  replace it in the package that it was delivered in.
  
@@ -1553,8 +1545,7 @@ Pusher propellers in the wake of wings are particularly bedeviled; the inflow
 \end_layout
 
 \begin_layout Section*
-TYPES OF PROPELLERS.
- 
+TYPES OF PROPELLERS
 \end_layout
 
 \begin_layout Standard
@@ -1589,7 +1580,7 @@ This type of propeller usually has two possible pitch positions, one set
  It can be used in either position by a lever operating the propeller by
  means of oil pressure from the engine.
  There are also mechanically operated V.P.
- propellers, which give a range of possible positions b y means of a handle
+ propellers, which give a range of possible positions by means of a handle
  rotated in the cockpit.
  
 \end_layout
@@ -1697,7 +1688,27 @@ EFFICIENCY AND THRUST
 \end_layout
 
 \begin_layout Standard
-See figure 8 
+Referring to 
+\begin_inset CommandInset ref
+LatexCommand formatted
+reference "fig:Forward-Speed-vs"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+figure 8
+\end_layout
+
+\end_inset
+
+; 
 \end_layout
 
 \begin_layout Standard
@@ -1738,16 +1749,32 @@ However the lesson to be learned is to swing the largest diameter prop at
  A helicopter is about 90 percent efficient 
 \end_layout
 
-\begin_layout Standard
-.
- 
-\end_layout
-
 \begin_layout Section
 INSTALLATION PROCEDURES 
 \end_layout
 
-\begin_layout Quote
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "3pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\noindent
+\align center
 WARNING
 \end_layout
 
@@ -1772,9 +1799,14 @@ Any deviation from the procedures or usage of inadequate tools may render
  
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
-After having received and inspected your propeller check the following items:-
- 
+After having received and inspected your propeller check the following items:
+  
 \end_layout
 
 \begin_layout Enumerate
@@ -1804,8 +1836,8 @@ Imagine your propeller in a vertical position.
 \end_layout
 
 \begin_layout Enumerate
-You will now be able to identify your propeller as being one of four types:-
- 
+You will now be able to identify your propeller as being one of four types:
+  
 \end_layout
 
 \begin_deeper
@@ -1931,7 +1963,7 @@ The following tools should be handy or readily available before the drilling
 \end_layout
 
 \begin_layout Standard
-YOU WILL NEED:- 
+YOU WILL NEED:  
 \end_layout
 
 \begin_layout Enumerate
@@ -1948,7 +1980,7 @@ Your engine back/front plate.
 
 \begin_layout Enumerate
 Two sharp spiral wood drill bits.
- One of the bits should match the diameter of the retaining bolts you're
+ One of the bits should match the diameter of the retaining bolts you are
  going to use i.e.- Bolt=8mm then bit=8mm.The other bit should be 0.5 mm larger
  than the retaining bolts i.e.
  Bolt=8mm then bit=8,5mm.
@@ -2101,11 +2133,8 @@ Step 2
 \begin_layout Standard
 Insert the drill bit that matches the bolt shaft diameter into the chuck
  and tighten it with the key.
- Check if the drill bit is 90 degrees to 
-\end_layout
-
-\begin_layout Standard
-the table in four directions once again.
+ Check if the drill bit is 90 degrees to the table in four directions once
+ again.
  See 
 \begin_inset CommandInset ref
 LatexCommand formatted
@@ -2647,8 +2676,8 @@ Grasp the propeller firmly so that the drillbit does not snatch at the holes
 \end_layout
 
 \begin_layout Quote
-NOTE: You're bolts should be able to slide in and out of the holes very
- easily at this stage without undue play or stiffness.
+NOTE: Your bolts should be able to slide in and out of the holes very easily
+ at this stage without undue play or stiffness.
  Do not be anxious if there is a small amount of play as the fibers will
  shrink the hole down from 8,5mm to approx.
  8,3mm or even 8,2mm.
@@ -2741,7 +2770,7 @@ Any deviation from the procedures or usage of inadequate tools may render
 
 \begin_layout Standard
 The following tools should be handy or readily available before the coupling
- procedure can be completed satisfactorily:- 
+ procedure can be completed satisfactorily:  
 \end_layout
 
 \begin_layout Enumerate
@@ -2993,7 +3022,7 @@ Even the best made metal propellers have their tracking set even more so
 \end_layout
 
 \begin_layout Standard
-You will need the following tools to ensure an accurate track setting:-
+You will need the following tools to ensure an accurate track setting: 
  
 \end_layout
 
@@ -3256,7 +3285,7 @@ NOTE: What you are actually doing is pulling blade "A" closer to the airframe,
 
 \begin_layout Standard
 Repeat steps 4, 5, and 6 until the difference in the tracking of the dots
- bottom out at 3mm or less i.e.:- 
+ bottom out at 3mm or less i.e.:  
 \end_layout
 
 \begin_layout Standard
@@ -3595,7 +3624,7 @@ PRE/POST FLIGHT INSPECTION
 \end_layout
 
 \begin_layout Standard
-A short letter from your propeller:- 
+A short letter from your propeller:  
 \end_layout
 
 \begin_layout Verse
@@ -3632,7 +3661,7 @@ Please understand, Boss, I'm not one to complain but my leading edge headache
 What inspired me to write this letter was the joke you had made about me
  the other day in front of all your friends.
  As I recall one of your flying buddies asked you about my ragged appearance,
- to which you answered:- 
+ to which you answered:  
 \end_layout
 
 \begin_layout Verse
@@ -3995,7 +4024,7 @@ Should the prop be in a good condition, as judged according to the 4 stages
  in the previous section, its a good idea to start with a thorough cleaning
  and waxing before long term storage and will doubly serve to retain the
  luster.
- Here is a list of handy items and procedures to follow:- 
+ Here is a list of handy items and procedures to follow:  
 \end_layout
 
 \begin_layout Standard
@@ -4758,7 +4787,7 @@ A week or two later I had a chat with Mike about the accident.
  been removed by a surgeon's knife.
  The only visible damage to the propeller was some small dents in the leading
  edge.
- One question that arose out of our discussion was:- Just how many times
+ One question that arose out of our discussion was:  Just how many times
  did the propeller strike his hand? 
 \end_layout
 
@@ -4767,7 +4796,7 @@ We both agreed that the time he took to react to the bump on his hand never
  exceeded 0.5 seconds.
  Since the prop was turning at 8000 rpm at the time of the encounter and
  there are two blades to a prop the mathematical calculation was done as
- follows:- 
+ follows:  
 \end_layout
 
 \begin_layout Standard
@@ -5039,7 +5068,7 @@ Dear reader, you will be amazed at the damage a hamburger in clingwrap can
 \end_layout
 
 \begin_layout Standard
-Let us assume that you have:- 1) heard a terrific bang and 2) the aircraft
+Let us assume that you have:  1) heard a terrific bang and 2) the aircraft
  gave a sudden lurch and then 3) there is a sudden increase in vibration.
  At this stage you may safely conclude that something has gone through the
  prop.
@@ -5104,7 +5133,7 @@ WHAT AREA?
 
 \begin_layout Standard
 Another interesting fact that needs to be discussed is the often asked question:
-- "What area does a typical propeller of, say, 66 inches cover in one revolution
+  "What area does a typical propeller of, say, 66 inches cover in one revolution
 ?" Again the answer depends on the rpm the prop is doing at the time.
  
 \end_layout
@@ -5127,11 +5156,11 @@ A simple calculation using
 \end_layout
 
 \begin_layout Standard
-Thus:- area covered, one rpm, one blade = 3.14*(33 inches * 33 Inches) 
+Thus:  area covered, one rpm, one blade = 3.14*(33 inches * 33 Inches) 
 \end_layout
 
 \begin_layout Standard
-So:- 3.14*(83,82mm * 83,82mm) = 22060 sq.
+So:  3.14*(83,82mm * 83,82mm) = 22060 sq.
  or 2,2 sq.
  meters covered by one blade in one revolution.
  We have to add 
@@ -5143,7 +5172,7 @@ So:- 3.14*(83,82mm * 83,82mm) = 22060 sq.
 \end_layout
 
 \begin_layout Standard
-So:-2,2 + 2,2 meters = 4,4 sq.
+So: 2,2 + 2,2 meters = 4,4 sq.
  meters covered by both blades in one revolution.
  
 \end_layout
@@ -5184,7 +5213,7 @@ WHAT DISTANCE?
 
 \begin_layout Standard
 Finally the last of the most often asked questions concerning propellers
- in general is:- "What is the distance the tip of a propeller travels in
+ in general is:  "What is the distance the tip of a propeller travels in
  1) a second 2) a minute 3) an hour".
  
 \end_layout
@@ -5203,12 +5232,12 @@ Let's use the same propeller length of 66 inches with the same gear-drive
 \end_layout
 
 \begin_layout Standard
-Then:- 2 * 3.14 * 33 inches = 207 inches or 5257mm.
+Then:  2 * 3.14 * 33 inches = 207 inches or 5257mm.
  5275mm = 5.275meters in one revolution 
 \end_layout
 
 \begin_layout Standard
-So:- 5.275 meters * 2558 rpm = 13493 meters distance traveled in one minute
+So:  5.275 meters * 2558 rpm = 13493 meters distance traveled in one minute
  or 13 and a half kilometers! Multiply 13.5 by 60 to get to km per hour and
  we find a total distance of 780 km covered in one hour which roughly equals
  the distance from Jo'burg to Margate, Upington, or Graaf-Reinet in the
@@ -5239,8 +5268,7 @@ I DON'T THINK SO!
 \end_layout
 
 \begin_layout Section
-TWO BLADES VERSUS MULTI-BLADES.
- 
+TWO BLADES VERSUS MULTI-BLADES 
 \end_layout
 
 \begin_layout Standard
@@ -5438,7 +5466,7 @@ WHEN TO USE THREE OR MORE BLADES
 \end_layout
 
 \begin_layout Standard
-Consider using three or more blades when:- 
+Consider using three or more blades when:  
 \end_layout
 
 \begin_layout Enumerate
@@ -5485,12 +5513,11 @@ When the airframe or aircraft has been altered significantly.(VERY RARE!)
 \end_layout
 
 \begin_layout Section
-SELECTING A PROPELLER.
- 
+SELECTING A PROPELLER
 \end_layout
 
 \begin_layout Standard
-Keep in mind the following tips when selecting a wood propeller:- 
+Keep in mind the following tips when selecting a wood propeller:  
 \end_layout
 
 \begin_layout Enumerate
@@ -5598,8 +5625,7 @@ WHERE WILL YOU BE OPERATING THE AIRCRAFT 90% OF THE TIME?
 \end_layout
 
 \begin_layout Section
-PROP NOISE.
- 
+PROP NOISE
 \end_layout
 
 \begin_layout Standard
@@ -5613,7 +5639,7 @@ If you're looking for the legal aspect pertaining propeller noise you're
 \end_layout
 
 \begin_layout Standard
-Next time you're at the local airfield and you see a Cessna doing a run-up
+Next time you are at the local airfield and you see a Cessna doing a run-up
  at the hangers and then taxiing to the holding point take a walk to the
  runway.
  Stand at a point about one third the length of the runway away from the
@@ -5695,7 +5721,7 @@ Pitts Special Aerobatic Team
 \end_layout
 
 \begin_layout Standard
-If you look closely you will notice three distinct smoke patterns:- 
+If you look closely you will notice three distinct smoke patterns:  
 \end_layout
 
 \begin_layout Enumerate
@@ -5724,7 +5750,7 @@ Watch the smoke!
 \end_layout
 
 \begin_layout Standard
-EXPLANATION:- 
+EXPLANATION:  
 \end_layout
 
 \begin_layout Standard
@@ -5845,15 +5871,15 @@ EFFECTIVE RANGE OF PROPELLERS
 
 \begin_layout Standard
 What is the average effective range that a fixed pitch two bladed propeller
- covers may be asked? The answer is fairly simple and straight forward:-
- Approx.
+ covers may be asked? The answer is fairly simple and straight forward:
+  Approx.
  80 to 100 mph.
  
 \end_layout
 
 \begin_layout Standard
 Any light aircraft ever built has the following characteristics put into
- the design:- 
+ the design:  
 \end_layout
 
 \begin_layout Enumerate
@@ -5932,8 +5958,7 @@ To illustrate the above statement we shall look at requirements of a typical
 \end_layout
 
 \begin_layout Section
-THE STATIC THRUST FAIRY TALE.
- 
+THE STATIC THRUST FAIRY TALE
 \end_layout
 
 \begin_layout Standard
@@ -6113,7 +6138,7 @@ BUT WAIT! ...
 \begin_layout Standard
 Let us leave our test pilot suspended between heaven and earth for the moment
  and discuss what is actually happening here.
- Firstly let us look at the facts:- 
+ Firstly let us look at the facts:  
 \end_layout
 
 \begin_layout Enumerate
@@ -6208,8 +6233,7 @@ WARNING: Never fly a prop that produces maximum thrust at zero forward speed
 \end_layout
 
 \begin_layout Section
-THE ACHILLES HEEL OF GROUND ADJUSTABLE BLADES.
- 
+THE ACHILLES HEEL OF GROUND ADJUSTABLE BLADES
 \end_layout
 
 \begin_layout Standard
@@ -6394,7 +6418,7 @@ If we wish to add or subtract two degrees to station 75 then the ratio will
 
 \begin_layout Standard
 Ground adjustable blades have the same design and twist incorporated into
- their blades with one exception:- the blades are unconfined and can be
+ their blades with one exception:  the blades are unconfined and can be
  turned in their housing.
  
 \end_layout
@@ -6666,7 +6690,7 @@ Only one thing need be said: "A spinner is more efficient on a tractor than
 \end_layout
 
 \begin_layout Standard
-INSPECTION OF:- 
+INSPECTION OF:  
 \end_layout
 
 \begin_layout Standard
@@ -6674,7 +6698,7 @@ As is the case with all parts and pieces of your aircraft it is vital that
  the spinner comes under close scrutiny in the pre-
 \backslash
  after-flight inspection.
- You should look for:- 
+ You should look for:  
 \end_layout
 
 \begin_layout Enumerate
@@ -6895,7 +6919,7 @@ Running-in procedures have to be adhered to meticulously and the necessary
 Even if the manufacturer of the aircraft or the person that has installed
  the engine has promised that the engine was test run or that the aircraft
  was test-flown, make sure that you have the correct jet size fitted to
- you're carburetor for the altitude that you are going to operate at.
+ your carburetor for the altitude that you are going to operate at.
  
 \end_layout
 
@@ -6915,7 +6939,7 @@ t end.
 \end_layout
 
 \begin_layout Quote
-WARNING! Be absolutely sure that you're engine is in top condition before
+WARNING! Be absolutely sure that your engine is in top condition before
  you attempt to fly or give some fortunate soul a flip.
  
 \end_layout
@@ -6929,7 +6953,7 @@ When you were a student at some or other flight academy one of the subjects
  that you had to study was meteorology.
  Meteorology concerns our weather patterns and the various influences there-on
  by several known factors.
- Two of these factors have a great influence on the performance of you're
+ Two of these factors have a great influence on the performance of your
  propeller.
  They are a) cool dry air and b) hot humid air.
  
@@ -7118,8 +7142,8 @@ Our maniacal pilot, blissfully ignorant of the above facts, continues on
 The right stuff
 \shape default
 ".
- If you haven't seen it yet rush of to you're closest video shop and get
- it  ...
+ If you haven't seen it yet rush of to your closest video shop and get it
+  ...
  .NOW! For those who have....Remember how the test pilot in the X-1 was banged
  and bounced around as his aircraft approached the mach one number? As soon
  as the craft had succeeded in penetrating the sound barrier there was a
@@ -7146,8 +7170,8 @@ A combination of all the above factors lead to fatigue in the hub area of
 FATIGUE SIGNALS/SIGNS 
 \end_layout
 
-\begin_layout Standard
-VISUAL INSPECTION FOR: 
+\begin_layout Subsubsection*
+VISUAL INSPECTION FOR
 \end_layout
 
 \begin_layout Standard
@@ -7200,9 +7224,8 @@ Another sure sign of fatigue in wood props are small cracks extending from
  
 \end_layout
 
-\begin_layout Standard
-DELAMINATING.
- 
+\begin_layout Subsubsection*
+DELAMINATING
 \end_layout
 
 \begin_layout Standard
@@ -7215,7 +7238,7 @@ Delaminating is a dirty word in the propeller industry.
 
 \begin_layout Standard
 Delaminating of the laminates of the propeller may have various causes.
- The most likely are caused by exposure to the elements:- 
+ The most likely are caused by exposure to the elements:  
 \end_layout
 
 \begin_layout Itemize
@@ -7314,11 +7337,7 @@ As sure as water is wet the oil deposit on your propeller will be affected
 
 \begin_layout Standard
 The pilot returns three weeks later and discovers to his astonishment and
- total dismay that the laminates of the propeller has suddenly come 
-\end_layout
-
-\begin_layout Standard
-apart.
+ total dismay that the laminates of the propeller has suddenly come apart.
  Fuming he jumps on the telephone and sends the manufacturer a bullet and
  advises his fellow pilot friends against purchasing "X" brand propeller!
  "'Cause the prop started to delaminate for no reason at all"! 
@@ -7326,12 +7345,8 @@ apart.
 
 \begin_layout Standard
 It speaks for itself that the obvious answer to your problem is to pre-flight
- AND after-flight the propeller as if your life depended on 
-\end_layout
-
-\begin_layout Standard
-it.
- NEVER BUT NEVER leave your propeller exposed to the elements.
+ AND after-flight the propeller as if your life depended on it.
+ NEVER EVER leave your propeller exposed to the elements.
  Buy a good quality prop cover and fit it everyday after a flight.
  
 \end_layout
@@ -7343,14 +7358,10 @@ Remember to remove the cover before you fly again
 \emph default
 .
  Don't laugh, there are several pilots that started the engine with the
- prop 
-\end_layout
-
-\begin_layout Standard
-cover "in situ" just to have their eyeballs drop out at the sight of material
- dissipating and exiting from the airframe at tremendous speeds, not to
- mention the WHACK! you will receive, should a piece of prop cover strike
- you! 
+ prop cover "in situ" just to have their eyeballs drop out at the sight
+ of material dissipating and exiting from the airframe at tremendous speeds,
+ not to mention the WHACK! you will receive, should a piece of prop cover
+ strike you! 
 \end_layout
 
 \begin_layout Standard
@@ -7379,7 +7390,7 @@ NEVER SPRAY THE PROP WITH AN OIL BASED CLEANER OR SILICONE SPRAY.
 \end_layout
 
 \begin_layout Standard
-INADEQUATE MANUFACTURING PROCEDURES under which may be listed :- 
+INADEQUATE MANUFACTURING PROCEDURES under which may be listed :  
 \end_layout
 
 \begin_layout Enumerate
@@ -7413,7 +7424,7 @@ incorrect preparation of timber before lamination procedure has started.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Subsubsection*
 FATIGUE REMEDIES 
 \end_layout
 
@@ -7442,7 +7453,15 @@ Let me define first of all what type of repair should
 never
 \emph default
  be attempted by you, your uncle, aunt, father, brother, aeronautic friend
- or somebody you "know" somewhere.
+ or somebody you 
+\begin_inset Quotes eld
+\end_inset
+
+know
+\begin_inset Quotes erd
+\end_inset
+
+ somewhere.
  
 \end_layout
 
@@ -7538,16 +7557,12 @@ Small dents (5mm or less) may be filled with a reputable epoxy normally
 \end_layout
 
 \begin_layout Section
-TO CUT OR NOT TO CUT, THAT IS THE QUESTION.
- 
+TO CUT OR NOT TO CUT, THAT IS THE QUESTION
 \end_layout
 
-\begin_layout Standard
-WARNING! WARNING! WARNING! 
-\end_layout
-
-\begin_layout Standard
-I've given the following section a lot of thought before writing it.
+\begin_layout Quote
+WARNING: I've given the following section a lot of thought before writing
+ it.
  Let me warn you beforehand that what you are about to read and attempt
  may leave your prop utterly useless and beyond salvation.
  I will accept no responsibility of whatever nature for the results that
@@ -7559,51 +7574,55 @@ I've given the following section a lot of thought before writing it.
 Sometimes, but fortunately not often, you need to shorten the propeller
  to suite the particular needs of the aircraft.
  You have to make a very important decision.
- Once a prop has been cut..., that's it..., you can't put back what is lost.
+ Once a prop has been cut ...
+ that's it ...
+ you can't put back what is lost.
  If, for some reason the prop is underreving, then it may be that the prop
  is too long or has too much blade area for the engine to handle.
  What can you do about it? 
 \end_layout
 
 \begin_layout Standard
-There are four courses of action you can take:- 
+There are four courses of action you can take:  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 1) RETURN THE PROP TO THE MANUFACTURER accompanied by the relevant information
  relating to what the propeller is doing at present and ask them to adjust
  it.
- SOMETIMES THEY CAN, SOMETIMES THEY CAN'T.
+ Sometimes they can, sometimes they can't.
  Again it depends if the prop was originally designed for your specific
  engine/aircraft combination.
- DO MAKE SURE OF THE FACTS.
- Nobody on this earth can say "I CAN HEAR THAT THE PROP IS UNDER/OVERREVING".
+ Do make sure of the facts.
+ Nobody on this earth can say "I can hear that the prop is under/overreving".
  Maybe that's true, but the manufacturer is going to ask you a couple of
  awkward questions and you better have the facts ready.
- Following is an example of some of the questions you may be asked:- 
+ Following is an example of some of the questions you may be asked:  
 \end_layout
 
-\begin_layout Standard
-BY HOW MUCH IS IT OVER/UNDER REVVING EXACTLY (TO THE NEAREST 50 RPM?).
+\begin_deeper
+\begin_layout Enumerate
+By how much is it over/under revving exactly (to the nearest 50 rpm?).
  
 \end_layout
 
-\begin_layout Standard
-STATIONARY OR ON THE MOVE? 
+\begin_layout Enumerate
+Stationary or on the move? 
 \end_layout
 
-\begin_layout Standard
-IF ON THE MOVE, AT WHAT SPEED? 
+\begin_layout Enumerate
+If on the move, at what speed? 
 \end_layout
 
-\begin_layout Standard
-AT ROTATION, CLIMB-OUT, CRUISE OR MAX.
+\begin_layout Enumerate
+At rotation, climb-out, cruise or max.
  S&L?.
  
 \end_layout
 
-\begin_layout Standard
-2) YOU MAY SHORTEN THE PROP.
+\end_deeper
+\begin_layout Enumerate
+YOU MAY SHORTEN THE PROP.
  A bit dicey for the inexperienced, but you may remove half-an-inch from
  each side without altering the characteristics dramatically.
  Remember to paint the bare wood with a good two-part acrylic epoxy paint
@@ -7620,8 +7639,8 @@ AT ROTATION, CLIMB-OUT, CRUISE OR MAX.
  
 \end_layout
 
-\begin_layout Standard
-3) YOU MAY NARROW THE BLADE by removing 2mm from the trailing edge.
+\begin_layout Enumerate
+YOU MAY NARROW THE BLADE by removing 2mm from the trailing edge.
  By this method you keep the length of the prop (which is very important),
  but you subtract from the total blade area so the engine has to move less
  air).
@@ -7633,53 +7652,50 @@ However, I would like to say that this is the riskiest move of all.
  
 \end_layout
 
-\begin_layout Standard
-4) YOU MIGHT CHANGE THE PITCH.
+\begin_layout Enumerate
+YOU MIGHT CHANGE THE PITCH.
  VERY IMPORTANT! If you are one of the 1% nutty flyers out there....READ ON,
  but I shudder to think of the results you will get.
  Having made over 2500 propellers in 18 years I have yet to see a successful
  attempt at altering the pitch of a wood prop.
- Theoretically the idea is magnificent, but practically.
- ...
- .?? Should you decide on the latter...GIVE ME A CALL.
+ Theoretically the idea is magnificent, but practically? ...
+ Should you decide on the latter ...
+ 
+\emph on
+Give me a call
+\emph default
+.
  
 \end_layout
 
-\begin_layout Standard
-4a) INCREASING THE PITCH.
- 
-\end_layout
-
-\begin_layout Standard
-This is only possible if the blade section has sufficient initial thickness
+\begin_deeper
+\begin_layout Enumerate
+INCREASING THE PITCH.
+ This is only possible if the blade section has sufficient initial thickness
  so that the removal of wood from the underside of the leading edge does
  not make it structurally defective.
  The new blade angles should be checked blade to blade and the prop refurbished
  and balanced.
- 
-\end_layout
-
-\begin_layout Standard
-Only the outer 50% of the blades should be altered unless the prop is of
+ Only the outer 50% of the blades should be altered unless the prop is of
  a particular thick section to start with.
  
 \end_layout
 
-\begin_layout Standard
-4b) DECREASING THE PITCH.
+\begin_layout Enumerate
+DECREASING THE PITCH.
+ This may be done in two ways.
  
 \end_layout
 
-\begin_layout Standard
-This may be done in two ways.
- 
-\end_layout
-
-\begin_layout Standard
+\begin_deeper
+\begin_layout Enumerate
 Method one is to trim the blade trailing edges back to the required thickness
  and then remove material from the back face of the blades to form the new
- angle, finishing and balancing as before Method two is suitable when more
- pitch change is required.
+ angle, finishing and balancing as before 
+\end_layout
+
+\begin_layout Enumerate
+Method two is suitable when more pitch change is required.
  The rear faces of the blades are cleaned off and a thin plank is glued
  on.
  The lower leading edge may have to be reshaped slightly.
@@ -7688,6 +7704,8 @@ Method one is to trim the blade trailing edges back to the required thickness
  
 \end_layout
 
+\end_deeper
+\end_deeper
 \begin_layout Standard
 In all of the above cases you should re-check your readings all over again
  from the beginning.
@@ -7704,7 +7722,7 @@ THE LEADING EDGE PROTECTION SAGA
 \end_layout
 
 \begin_layout Quote
-WARNING: Please bear in mind whatever prop you fly:- it was designed to
+WARNING: Please bear in mind whatever prop you fly:  it was designed to
  propel an aircraft through clean, clear air ...
  and not for usage as a lawn-mower or runway construction tool/duster/leveler
  kit! 
@@ -7948,13 +7966,9 @@ WARNING: Any changes that are made to your blades will drastically affect
 THE TEN COMMANDMENTS OF PROP CARE 
 \end_layout
 
-\begin_layout Standard
-1.
- Thou shalt never force a prop to fit 
-\end_layout
-
-\begin_layout Standard
-When you get your new prop don't drive it onto the engine flange.
+\begin_layout Enumerate
+Thou shalt never force a prop to fit - When you get your new prop don't
+ drive it onto the engine flange.
  Always make sure that the holes are the right size.
  the bolt holes should fit snugly.
  Whatever you do don't knock it on with a hammer or pry it loose with a
@@ -7962,14 +7976,9 @@ When you get your new prop don't drive it onto the engine flange.
  
 \end_layout
 
-\begin_layout Standard
-2.
- Thou shalt keep an absolutely tidy and clean prop and engine flange.
- 
-\end_layout
-
-\begin_layout Standard
-If the backplate and flange aren't clean and smooth your prop will be pushed
+\begin_layout Enumerate
+Thou shalt keep an absolutely tidy and clean prop and engine flange - If
+ the backplate and flange aren't clean and smooth your prop will be pushed
  out of track.
  Some people paint their backplates without giving it another thought.
  Don't do it.
@@ -7979,28 +7988,19 @@ If the backplate and flange aren't clean and smooth your prop will be pushed
  
 \end_layout
 
-\begin_layout Standard
-3.
- Thou shalt mate a full size crush plate to thy prop hub.
- 
-\end_layout
-
-\begin_layout Standard
-You should have a full size crush plate, which becomes a bearing surface
- for the prop, and wide area washers under your bolt heads because it puts
- the load on the whole diameter of the hub.
+\begin_layout Enumerate
+Thou shalt mate a full size crush plate to thy prop hub - You should have
+ a full size crush plate, which becomes a bearing surface for the prop,
+ and wide area washers under your bolt heads because it puts the load on
+ the whole diameter of the hub.
  Wide area washers distribute the load better over the crush plate too.
  
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 4.
- Thou shalt torque the bolts properly.
- 
-\end_layout
-
-\begin_layout Standard
-Make sure you know the torque on the bolts.
+ Thou shalt torque thee bolts properly - Make sure you know the torque on
+ the bolts.
  Carelessness here may lead to a nasty Judgment Day: Namely, the prop might
  fly right off the engine.
  It's been known to happen and over-tightening is the culprit.
@@ -8015,41 +8015,32 @@ Make sure you know the torque on the bolts.
  
 \end_layout
 
-\begin_layout Standard
+\begin_deeper
+\begin_layout Enumerate
 Don't attempt to tighten bolts without a torque wrench.
  Guessing at values with a regular ratched or monkey wrench is just another
- form of Russian roulette----and you are guaranteed to lose.
+ form of Russian roulette --- and you are guaranteed to lose.
  Torquing properly includes cross tightening.
  This refers to the sequence of tightening down the bolts.
- 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Enumerate
 For further reference read the chapter on fitting the propeller to the hub.
  
 \end_layout
 
-\begin_layout Standard
-5.
- Thou shalt track the prop to maximum performance.
- 
-\end_layout
-
-\begin_layout Standard
-An out of track prop will add unwanted vibration to your ship.
+\end_deeper
+\begin_layout Enumerate
+Thou shalt track the prop to maximum performance - An out of track prop
+ will add unwanted vibration to your ship.
  Refer to the previous chapter in the "tracking" section for further detail
  on tracking your propeller.
  
 \end_layout
 
-\begin_layout Standard
-6.
- Thou shalt help thy prop do battle against sun, weather and moisture migration.
- 
-\end_layout
-
-\begin_layout Standard
-UV is one of the major sources of damage to a wood prop.
+\begin_layout Enumerate
+Thou shalt help thy prop do battle against sun, weather and moisture migration
+ - UV is one of the major sources of damage to a wood prop.
  Most aircraft are kept inside, but I recommend a prop cover whenever the
  plane is outside.
  All wood has moisture and P.PROP blanks have an 8 to 10% moisture content
@@ -8058,23 +8049,24 @@ UV is one of the major sources of damage to a wood prop.
  
 \end_layout
 
-\begin_layout Standard
+\begin_deeper
+\begin_layout Enumerate
 Never stand a prop up in a corner, not even for a day! If you do, stand
  it on the other tip for a day.
  If you do for any length of time the prop will go permanently out of balance.
  Keep it laying on a floor.
- Protect the prop from temperature extremes.
  
 \end_layout
 
-\begin_layout Standard
-7.
- Thou shalt keep thy prop clean.
+\begin_layout Enumerate
+Protect the prop from temperature extremes.
  
 \end_layout
 
-\begin_layout Standard
-The slicker the prop, the less likely it is to take hits.
+\end_deeper
+\begin_layout Enumerate
+Thou shalt keep thy prop clean - The slicker the prop, the less likely it
+ is to take hits.
  A smooth clean surface will keep the air more laminar on the prop.
  This in turn will build up an air cushion that will help protect the wood
  against damage from rocks and smell debris.
@@ -8084,51 +8076,32 @@ The slicker the prop, the less likely it is to take hits.
  
 \end_layout
 
-\begin_layout Standard
-8.
- Thou shalt ground thy craft rather than fly with even a slightly damaged
- propeller.
- 
-\end_layout
-
-\begin_layout Standard
-If you do get damage take a two part glue or epoxy and seal it.
+\begin_layout Enumerate
+Thou shalt ground thy craft rather than fly with even a slightly damaged
+ propeller - If you do get damage take a two part glue or epoxy and seal
+ it.
  It's important to visualize that any dent or disturbance in the prop will
  set up as much as a 30 degree fan or wake of turbulence behind it.
  
 \end_layout
 
-\begin_layout Standard
-9.
- Thou shalt routinely inspect thy prop for signs of dry rot.
- 
-\end_layout
-
-\begin_layout Standard
-If your prop develops gray spots then it is the beginning of dry rot, which
- is moisture getting into the wood.
+\begin_layout Enumerate
+Thou shalt routinely inspect thy prop for signs of dry rot - If your prop
+ develops gray spots then it is the beginning of dry rot, which is moisture
+ getting into the wood.
  There is a break in the finish somewhere.
  If you find it early enough to save the prop, sand it out.
  The prop can then be repaired to a like-new condition.
  
 \end_layout
 
-\begin_layout Standard
-10.
- Thou shalt keep the faith with a damaged prop.
- 
-\end_layout
-
-\begin_layout Standard
-Small dings wont make much difference in balance.
+\begin_layout Enumerate
+Thou shalt keep the faith with a damaged prop - Small dings wont make much
+ difference in balance.
  But for a major ding, a prop shop can often salvage a prop by laminating
  in a layer of wood, or several if necessary, to make a strong and thorough
  repair.
- 
-\end_layout
-
-\begin_layout Standard
-I have had leading and trailing edges with 75mm to 100mm missing out of
+ I have had leading and trailing edges with 75mm to 100mm missing out of
  them.
  With the new techniques and materials available today, I can repair them
  good as new.
@@ -8164,55 +8137,73 @@ clear of stones
 
 \begin_layout Standard
 DON'T land with the engine running on a field that is covered with stones
- or grass UNLESS ABSOLUTELY NECESSARY OR IN A EMERGENCY.
+ or grass 
+\emph on
+unless absolutely necessary or in a emergency
+\emph default
+.
  
 \end_layout
 
 \begin_layout Standard
-If you HAVE to land do three or more flights along the area to be absolutely
- sure there are no obstacles that will be kicked up into the propeller by
- the wheels.
- MORE SO IF YOU DO NOT HAVE WHEEL SPATS
+If you 
+\emph on
+have
+\emph default
+ to land do three or more flights along the area to be absolutely sure there
+ are no obstacles that will be kicked up into the propeller by the wheels.
+ More so if you do not have wheel spats
 \backslash
-PANTS
+pants
 \backslash
-MUDGUARDS.
- CUT the engine before touch-down if you HAVE to land in UNFAMILIAR or ROUGH
- terrain.
+mudguards.
+ CUT the engine before touch-down if you 
+\emph on
+have
+\emph default
+ to land in unfamiliar or rough terrain.
  
 \end_layout
 
 \begin_layout Standard
 DON'T use odd sized bolts and washers.
- They will GUARANTEE that the BALANCE of the prop is TOTALLY DESTROYED.
+ They will 
+\emph on
+guarantee
+\emph default
+ that the balance of the prop is totally destroyed.
  
 \end_layout
 
 \begin_layout Standard
-DON'T OVERTIGHTEN THE PROPELLER.
+DON'T Overtighten the propeller.
  You will crush the hub.
  
 \end_layout
 
 \begin_layout Standard
-DON'T START, RUN, REV the engine in the hanger.
- You will damage something, GUARANTEED! REMEMBER you have 2000Kg's worth
- of propeller swinging back there! 
+DON'T Start, Run, Rev the engine in the hanger.
+ You will damage something, guaranteed! You have 2000Kg's worth of propeller
+ swinging back there! 
 \end_layout
 
 \begin_layout Standard
-DON'T START, RUN, REV the engine when any living human OR animal OR object
+DON'T Start, Run, Rev the engine when any living human OR animal OR object
  is in the near vicinity of the prop.
  
 \end_layout
 
 \begin_layout Standard
-DON'T EVER ADJUST THE ENGINE WHILE IT IS RUNNING AND TURNING A PROPELLER!
- !NEVER, NEVER, NEVER, NEVER, NEVER, NEVER! 
+DON'T 
+\emph on
+Ever
+\emph default
+ adjust the engine while it is running and turning a propeller! NEVER EVER!
+ 
 \end_layout
 
 \begin_layout Standard
-DON'T FIDDLE WITH YOUR PROP, even if it is ground adjustable.
+DON'T Fiddle with your prop, even if it is ground adjustable.
  it wasn't designed to be set in haste, with less than perfect measuring
  equipment, in a less than perfect environment.
  
@@ -8220,11 +8211,11 @@ DON'T FIDDLE WITH YOUR PROP, even if it is ground adjustable.
 
 \begin_layout Standard
 DON'T overspin the prop.
- FATIGUE WILL GET YOU! 
+ Fatigue will get you! 
 \end_layout
 
 \begin_layout Standard
-DON'T UNDERPITCH or OVERPITCH your adjustable prop.
+DON'T Underpitch or Overpitch your adjustable prop.
  
 \end_layout
 
@@ -8233,8 +8224,11 @@ DO
 \end_layout
 
 \begin_layout Standard
-DO ..pre-flight AND after-flight inspect the propeller CLOSELY as if your
- life depended on it.
+DO ..pre-flight AND after-flight inspect the propeller 
+\emph on
+closely
+\emph default
+ as if your life depended on it.
  IT DOES! 
 \end_layout
 
@@ -8244,49 +8238,67 @@ DO...clean the propeller regularly as if your life depended on it.
 \end_layout
 
 \begin_layout Standard
-DO...make sure that NO OBJECT WILL DROP OFF THE AIRCRAFT OR PASSENGER as if
- your life depended on it.
+DO...make sure that 
+\emph on
+no object will drop off the aircraft or passenger
+\emph default
+ as if your life depended on it.
  IT DOES! 
 \end_layout
 
 \begin_layout Standard
 DO...use a prop cover.
- Remember to REMOVE AND REPLACE it before AND after each and every flight.
+ Remember to 
+\emph on
+remove and replace
+\emph default
+ it before AND after each and every flight.
  
 \end_layout
 
 \begin_layout Standard
-DO...SET THE TRACKING.
+DO...Set the tracking.
  Periodically check the tracking (at least every ten hours).
- Remember COMMANDMENT number 5 
+ Remember commandment number 5 
 \end_layout
 
 \begin_layout Standard
-DO...TORQUE THE BOLTS TO THE CORRECT NEWTON METERS WITH A GOOD TORQUE WRENCH.
- Remember COMMANDMENT number 4.
- 13 NEWTON/m for 8mm bolts 
+DO...Torque the bolts to the correct newton meters with a good torque wrench.
+ Remember commandment number 4.
+ 13 Nm for 8mm bolts 
 \end_layout
 
 \begin_layout Standard
-DO...fit SAFETY WIRES through the NUTS and BOLTS as if your life depended on
+DO...fit safety wires through the Nuts and Bolts as if your life depended on
  it.
  IT DOES! 
 \end_layout
 
 \begin_layout Standard
-DO...open the throttle GRADUALLY and gather speed GRADUALLY like a decent,
- fitting, considerate pilot.
+DO...open the throttle 
+\emph on
+gradually
+\emph default
+ and gather speed 
+\emph on
+gradually
+\emph default
+ like a decent, fitting, considerate pilot.
  Remember the letter your propeller wrote you? I think he's trying to tell
  you something! 
 \end_layout
 
 \begin_layout Standard
-DO...SWEEP THE FIRST 20M OF YOUR RUNWAY REGULARLY.
+DO...Sweep the first 20m of your runway regularly.
  While you are standing around shooting the bull with your fellow aviators,
  waiting for the wind to die down, you should hand out some brooms and clear
  the runway from debris laying around.
- IT SURE AS HELL WILL SAVE EVERYBODY SOME HEARTACHE NOT TO MENTION THE SAVING
- ON COSTS TO REPLACE A DAMAGED PROPELLER! 
+ 
+\emph on
+It sure as hell will save everybody some heartache not to mention the saving
+ on costs to replace a damaged propeller
+\emph default
+! 
 \end_layout
 
 \begin_layout Standard
@@ -8316,7 +8328,7 @@ ured.
 
 \begin_layout Standard
 In closing, one last word in defence of this one major airplane element
- that is taken much to much for granted:- 
+ that is taken much to much for granted:  
 \end_layout
 
 \begin_layout Quote
@@ -8650,7 +8662,8 @@ Propeller pitch
 Rate of climb
 \series default
 : The vertical speed, or speed at which an aircraft gains altitude, usually
- quoted in feet per minute at sea level air density 
+ quoted in feet per minute at sea level air density.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -8661,7 +8674,8 @@ Reduction drive
 : Belt-driven or gearbox.
  The idea is to slow the prop r.p.m.
  down so that a longer and more efficient propeller may be fitted to the
- aircraft engine 
+ aircraft engine.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -8678,7 +8692,8 @@ Sink rate
 \series bold
 Span
 \series default
-: The length of a propeller from tip to tip 
+: The length of a propeller from tip to tip.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -8711,7 +8726,8 @@ Torque
 : Torque is the resistance of a propeller to rotation.
  It has a considerable effect on the aircraft in various conditions of flight,
  because the resistance of the propeller to rotation tends to turn the aircraft
- the opposite way 
+ the opposite way.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -8765,7 +8781,8 @@ Windmilling
 Wash
 \series default
 : The airflow field behind a propeller, created by the propeller as it passes
- through the atmosphere 
+ through the atmosphere.
+ 
 \end_layout
 
 \begin_layout Section
@@ -8797,7 +8814,7 @@ In 2016 P.PROP (Pieter de Necker) was awarded the PGS Trophy by the Aero
 
 \begin_layout Standard
 P.PROP has also received a Silver Status award as a Supplier to BAE Systems
- in 2012 
+ in 2012.
 \end_layout
 
 \begin_layout Standard
@@ -8805,7 +8822,7 @@ P.PROP has also received a Silver Status award as a Supplier to BAE Systems
 \end_layout
 
 \begin_layout Subsubsection*
-Champions that fly P "Champion" PROPS 
+*** Champions that fly P "Champion" PROPS ***
 \end_layout
 
 \begin_layout Standard
@@ -9015,7 +9032,7 @@ Glen Ray
 \end_layout
 
 \begin_layout Subsubsection*
-*** HONORARY AWARDS *** 
+*** Honorary Awards *** 
 \end_layout
 
 \begin_layout Standard
@@ -9498,42 +9515,42 @@ Jabiru won the statepresidents race and came in 1st and 3rd with P.PROP.
 WHAT DO THE CHAMPIONS SAY ABOUT P "CHAMPION" PROPS? 
 \end_layout
 
-\begin_layout Standard
-Allan Pills (Instructor Klipriver):- “ The best performance yet” 
+\begin_layout Itemize
+Allan Pills (Instructor Klipriver):  “ The best performance yet” 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Bill Anderson Instructor Panorama / Current S.A.
- Champion:- "P.
+ Champion:  "P.
  PROP is superb!" 
 \end_layout
 
-\begin_layout Standard
-Dave King Saa 747 Airbus Senior Pilot:- "I've experienced no problems ...
+\begin_layout Itemize
+Dave King Saa 747 Airbus Senior Pilot:  "I've experienced no problems ...
  P.Prop is going FINE!" 
 \end_layout
 
-\begin_layout Standard
-Glen Ray Instructor Vryheid:- " P.PROP "Champion" props are smooth, powerful
+\begin_layout Itemize
+Glen Ray Instructor Vryheid:  " P.PROP "Champion" props are smooth, powerful
  and performs as claimed".
  
 \end_layout
 
-\begin_layout Standard
-Brian Young Instructor Barberton:- “There’s no comparison in performance
+\begin_layout Itemize
+Brian Young Instructor Barberton:  “There’s no comparison in performance
  to anything else” 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Louis Van Wyk Instructor Fisantekraal, Cape “ P.PROP Service is unbeatable
  and the props perform better than anything else I know of” 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 Boet Lobser – Builder of over 50 Bushbabies – Only fits a P.PROP 
 \end_layout
 
-\begin_layout Standard
+\begin_layout Itemize
 DENEL Aerospace Systems Uses P.PROP On their latest RPV Aircraft.
  
 \end_layout
