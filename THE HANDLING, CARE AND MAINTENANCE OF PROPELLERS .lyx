@@ -1100,6 +1100,7 @@ The best quality Phenol-Formaldehyd adhesive is used in the laminating process
 \align center
 \begin_inset Graphics
 	filename press-epoxy.png
+	width 50col%
 
 \end_inset
 
@@ -1122,6 +1123,7 @@ Measurements, designed by computer, are utilized in the cutting procedure,
 \align center
 \begin_inset Graphics
 	filename shaping.png
+	width 50col%
 
 \end_inset
 
@@ -1228,6 +1230,7 @@ Finally, a further two coats of satin smooth, high gloss quality Duco is
 \align center
 \begin_inset Graphics
 	filename finishing.png
+	width 50col%
 
 \end_inset
 
