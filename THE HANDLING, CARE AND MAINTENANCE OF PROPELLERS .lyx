@@ -395,11 +395,8 @@ I also dedicate this manual to all the amateur aircraft builders throughout
 \begin_layout Standard
 I have tried to bring all the experience I have learned through trial and
  error, comments and criticism, together so that you, as a pilot, may fly
- safely and securely, having knowledge based on fact and experience 
-\end_layout
-
-\begin_layout Standard
-available at your finger tips.
+ safely and securely, having knowledge based on fact and experience available
+ at your finger tips.
  May I suggest that you keep this manual in the same location as your airframe
  logbook, pilot's license, maps etc.
  
@@ -549,6 +546,13 @@ setcounter{page}{1}
 
 \begin_layout Section
 FIXED PITCH WOOD PROPELLERS
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:FIXED-PITCH-WOOD"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -763,7 +767,7 @@ I immediately set of to my trusty off-cut box and rummaged around looking
 n revealed no deformities and seemed of adequate thickness to suite my needs.
  A quick measurement of the original prop's thickness and shaft size was
  taken and the appropriate changes transferred to the board.
- (I was fortunate enough in having had various power-tools at my disposal.)
+ (I was fortunate enough in having had various power-tools at my disposal).
  Next I made a silhouette of the usable blade and used it as a reference
  for both blades on the new board.
  A couple of nifty cuts with the band saw, revealed a close resemblance
@@ -824,8 +828,7 @@ In this manual I have tried to bring all the experience I have learned through
  may fly safely and securely, having knowledge based on fact and experience
  available at your finger tips.
  May I suggest that you keep this manual in the same location as your airframe
- logbook, pilot's license, maps etc.?.
- 
+ logbook, pilot's license, maps etc? 
 \end_layout
 
 \begin_layout Standard
@@ -844,7 +847,7 @@ Please study each section thoroughly and read it again and again as some
 Should there be any sections that are unclear or difficult to understand
  please contact me immediately before any installation is attempted.
  My current telephone number is (011) 793-5235.
- Should you choose to do so please write me at P.O.Box 446, Randburg, 2125.
+ Should you choose to do so please write me at P.O.Box 446, Randburg, 2125
  or e-mail: propeller@icon.co.za.
  Website: www.p-propeller.co.za 
 \end_layout
@@ -900,7 +903,8 @@ Reliability, durability, and consistent performance, prop by prop, and excellenc
 e in leading edge protection.
  P.PROP further more improves fuel consumption by maximizing prop performance.
  Reliable back-up service combined with South African Technology and materials,
- gives one peace of min 
+ gives one peace of mind.
+ 
 \end_layout
 
 \begin_layout Subsection*
@@ -998,11 +1002,8 @@ DESIGNING AND MANUFACTURING OF:
 
 \begin_layout Standard
 Purpose-made props taking into consideration pilot weight, aircraft specificatio
-ns and task related 
-\end_layout
-
-\begin_layout Standard
-requirements utilizing enhanced computer assisted calculations.
+ns and task related requirements utilizing enhanced computer assisted calculatio
+ns.
  
 \end_layout
 
@@ -1043,7 +1044,7 @@ WOOD
 
 \begin_layout Standard
 Built into every propeller is 30 years of theoretical research and practical
- experience linked to S.A.'s harsh and varying climatic conditions.
+ experience linked to South Africa's harsh and varying climatic conditions.
  Before a prop has QA passed manufacturer identification and serial numbers,
  stringent manufacturing procedures and process plans are adhered to.
  
@@ -1191,8 +1192,8 @@ A three layer Polyurethane Acrylic epoxy based paint is liberally applied
 \end_layout
 
 \begin_layout Enumerate
-A complete and absolute coverage of the wood fiber, to a thickness of 0.5-1mm,
- is achieved 
+A complete and absolute coverage of the wood fiber, to a thickness of 0.5-1
+ mm, is achieved 
 \end_layout
 
 \begin_layout Enumerate
@@ -1285,7 +1286,8 @@ CG() = Carbon fiber/Glass fiber The numbers indicate the total amount of
  The second numerical figure indicates the theoretical pitch of the prop
  at station .75R (radius) in inches.
  (The pitch is the forward movement in inches that one blade advances theoretica
-lly through the air in one revolution.) 
+lly through the air in one revolution).
+ 
 \end_layout
 
 \begin_layout Description
@@ -1608,7 +1610,7 @@ A fixed pitch prop is of one-piece construction and made of wood, composites
 \end_layout
 
 \begin_layout Subsubsection*
-VARIABLE PITCH (V.P.) PROPELLER.
+VARIABLE PITCH (VP) PROPELLER.
  
 \end_layout
 
@@ -1717,10 +1719,6 @@ ing of the engine.
  
 \end_layout
 
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Section
 EFFICIENCY AND THRUST 
 \end_layout
@@ -1779,7 +1777,7 @@ However the lesson to be learned is to swing the largest diameter prop at
  We may safely conclude that a large diameter prop turning at 1800 rpm is
  more efficient at converting the hp available to thrust than a small diameter
  prop turning at 3600 rpm will.
- As a general rule, you don't want to turn your prop tips over 270m per
+ As a general rule, you don't want to turn your prop tips over 270 m per
  second; 180m to 220m per second is more desirable.
  Your prop noise will also decrease with lower tip speeds.
  The efficiency of a direct drive is about 65 percent and is brought up
@@ -1933,7 +1931,7 @@ l to the engine life and, may not have adequate ground clearance or adequate
 
 \begin_layout Enumerate
 Check if the manufacturer of your aircraft recommends the PITCH of the prop
- (if the prop wasn't manufactured for your aircraft in the first place.).
+ (if the prop wasn't manufactured for your aircraft in the first place).
  There are several alternative pitches for your aircraft, all depending
  on what you are planning to do.
  For instance, most aircraft manufacturers specify an average pilot weight
@@ -2019,8 +2017,9 @@ Your engine back/front plate.
 \begin_layout Enumerate
 Two sharp spiral wood drill bits.
  One of the bits should match the diameter of the retaining bolts you are
- going to use i.e.- Bolt=8 mm then bit=8 mm.The other bit should be 0.5 mm larger
- than the retaining bolts i.e.
+ going to use i.e.
+ - Bolt=8 mm then bit=8 mm.The other bit should be 0.5 mm larger than the
+ retaining bolts i.e.
  Bolt=8 mm then bit=8,5 mm.
  
 \end_layout
@@ -2693,7 +2692,7 @@ Step 9
 Remove the drill-bit from the drill-press and replace it with a bit that
  is 0.5 mm larger in diameter than the bolts you are using.
  Don't forget to tighten the chuck with the key and to remove the key afterwards.
- If left in position the key wi ll fly out in any direction and may cause
+ If left in position the key will fly out in any direction and may cause
  serious injury to yourself or the person helping you! 
 \end_layout
 
@@ -2741,7 +2740,7 @@ Remedy for unsightly holes!
 \begin_layout Standard
 Remove the drill-bit and replace it with the rose-rasp bit.
  Carefully remove all wood residue and debris from the newly drilled holes
- to a depth of 2mm.
+ to a depth of 2 mm.
  
 \end_layout
 
@@ -3667,11 +3666,17 @@ PRE/POST FLIGHT INSPECTION
 A short letter from your propeller:  
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 Dear Boss, 
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 Well, here I'm hanging onto your engine ready, willing and able to do your
  bidding.
  Your wish is my command and believe me I shall tear my heart out to save
@@ -3679,7 +3684,10 @@ Well, here I'm hanging onto your engine ready, willing and able to do your
  
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 I would like to bring the fact that I feel very neglected, to your attention.
  Okay, I know that you are a very careful pilot while inspecting your aircraft,
  and that I should be happy with the glance that you give me just to see
@@ -3689,7 +3697,10 @@ I would like to bring the fact that I feel very neglected, to your attention.
  
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 Please understand, Boss, I'm not one to complain but my leading edge headache
  seems to be getting worse, and I'm having difficulty in transferring the
  air to thrust because of all the little dents in my wings.
@@ -3697,21 +3708,30 @@ Please understand, Boss, I'm not one to complain but my leading edge headache
  edge? I'm sure something is cracked and it really hurts! 
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 What inspired me to write this letter was the joke you had made about me
  the other day in front of all your friends.
  As I recall one of your flying buddies asked you about my ragged appearance,
  to which you answered:  
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 " Oh..That,..That my dear friend lends character to my plane".
  It really pained me to overhear such frivolous talk, not to mention the
  shame I felt as some of the other prop buddies of mine burst out laughing.
  
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 Well Boss, that is all I really have to say, but would you mind taking a
  long and hard look at me sometime please? I'm sure that you could spare
  some time one of these days to give me a rub down or maybe a shine with
@@ -3723,7 +3743,10 @@ Rally Car Wax
  
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 Anyway, thanks for reading my letter.
  I sure hope you will pay more attention to me.
  I really wouldn't like to let you down in that nasty, rocky gorge you love
@@ -3731,16 +3754,25 @@ Anyway, thanks for reading my letter.
  
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 Yours faithfully, 
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 Woody Propeller.
  
 \end_layout
 
-\begin_layout Verse
+\begin_layout Quote
+
+\family typewriter
+\size small
 PS.
  I would appreciate it very much if you would refrain from revving me up
  high on take of at that other field where all the stones are scattered.
@@ -3763,7 +3795,17 @@ ASSESSING THE CONDITION OF THE PROPELLER
 \end_layout
 
 \begin_layout Standard
-REFER TO PAGE 7 FOR A QUICK REFERENCE CHECK.
+Refer to Section 
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sec:FIXED-PITCH-WOOD"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+ for a quick reference check.
  
 \end_layout
 
@@ -3833,7 +3875,7 @@ Tips, leading edge, trailing edge intact.
 \begin_layout Enumerate
 Nil water and oil residual penetration into the wood.
  (This can be identified by a gray colour under the paintwork in the case
- of water penetration or a dark black deposits in the case of oil penetration.)
+ of water penetration or a dark black deposits in the case of oil penetration).
  
 \end_layout
 
@@ -3875,7 +3917,7 @@ Tips, leading edge, trailing edge intact.
 \begin_layout Enumerate
 Nil water and oil residual penetration into the wood.
  (This can be identified by a gray colour under the paintwork in the case
- of water penetration or a dark black deposits in the case of oil penetration.)
+ of water penetration or a dark black deposits in the case of oil penetration).
  
 \end_layout
 
@@ -5327,9 +5369,10 @@ How can that be?" to a plain "Why?" to "Could it be possible?".
 \end_layout
 
 \begin_layout Standard
-So....the next best thing that the first designers of propellers did was to
- distribute the load between two propellers and "Hey Presto!" all the problems
- with a single bladed prop disappeared out the window 
+So ...
+ the next best thing that the first designers of propellers did was to distribut
+e the load between two propellers and "Hey Presto!" all the problems with
+ a single bladed prop disappeared out the window 
 \emph on
 although
 \emph default
@@ -5698,7 +5741,7 @@ Next the pilot taxi's to the threshold and after having done all the necessary
  has reached the inner curves of the efficiency scale.
  At this stage a wonderful change takes place as the "WWWWWWHHHHHHHHOOOOOOO"
  sound diminishes in decibels and becomes a smooth "wwwwwhhhhhhoooommmmmmmmmmmmm
-mmmmmmmmmmmmmm...." sound.
+mmmmmmmmmmmmmm ..." sound.
  
 \end_layout
 
@@ -6136,8 +6179,7 @@ Deliriously happy, the head of the project (whom also doubled as the test
  The aircraft leapt forward like a bat out of hell and proceeded to gather
  speed to set the new land speed record for microlight aircraft.
  100 meters distant and the nose of the plane started to sniff freedom and
- promptly headed for the clear blue sky! ...
- 
+ promptly headed for the clear blue sky! 
 \end_layout
 
 \begin_layout Standard
@@ -6599,8 +6641,7 @@ SO WHAT? ...
  You may ask.
  Ooookaayyyy! Let's get into my Turbo Supercharged Torque-converted 4-wheel
  drive, magnum sunroof, 24 inch non-grip supper-slip no-name brand tyres,
- 10 million twin-drive super-duper CD powered Porsche.
- ...
+ 10 million twin-drive super-duper CD powered Porsche ...
  "I'll drive while you hang onto this here 6 inch saucer, pal.
  There's a lovely stretch of open road about 10 clicks long with nary a
  cop in sight, just outside my gate.
@@ -6610,7 +6651,7 @@ SO WHAT? ...
 \begin_layout Standard
 "Welll" (sort of sluggish answer aint it?).
  VOOM..VOOM..VOOM!.
- SREEEEEECH..VOOM (QUICK)..GRRRRHUCK (GEARS!).
+ SREEEEEECH..VOOM (QUICK)...GRRRRHUCK (GEARS!).
  
 \end_layout
 
@@ -6663,7 +6704,8 @@ Driver (Syrupy smooth voice): "Come on, Pal"
 \end_layout
 
 \begin_layout Standard
-(Passenger contemplates then unwinds window.) 
+(Passenger contemplates then unwinds window).
+ 
 \end_layout
 
 \begin_layout Standard
@@ -6679,7 +6721,8 @@ passenger).
 
 \begin_layout Standard
 Driver: " Put your hand out the window".
- (Needle hovering at 400kph.) 
+ (Needle hovering at 400 kph).
+ 
 \end_layout
 
 \begin_layout Standard
@@ -7113,7 +7156,7 @@ The biggest culprit which induces rapid propeller fatigue to the point of
 \begin_layout Standard
 Under normal circumstances a propeller works well at 800 to 900 kph tip
  speed.
- The sound barrier lurks around the 1100kph mark.
+ The sound barrier lurks around the 1100 kph mark.
  
 \end_layout
 
@@ -8344,10 +8387,6 @@ It sure as hell will save everybody some heartache not to mention the saving
 "Come on guys! ...
  let's put some effort into it, keep your prop as long as possible for as
  long as possible" 
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \begin_layout Section
